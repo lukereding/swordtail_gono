@@ -1,0 +1,2409 @@
+species,character,value,name,type
+P. reticulata,character_1,NA,sword,sword
+P. butleri,character_1,NA,sword,sword
+A. hubberi,character_1,0,sword,sword
+P. coompressa,character_1,0,sword,sword
+P. intermedia,character_1,0,sword,sword
+P. olmaceae,character_1,0,sword,sword
+X. alvarezi,character_1,2,sword,sword
+X. andersi,character_1,2,sword,sword
+X. birchmanni,character_1,1,sword,sword
+X. clemenciae,character_1,2,sword,sword
+X. continens,character_1,1,sword,sword
+X. cortezi,character_1,2,sword,sword
+X. couchianus,character_1,0,sword,sword
+X. evelynae,character_1,0,sword,sword
+X. gordoni,character_1,0,sword,sword
+X. helleri,character_1,2,sword,sword
+X. maculatus,character_1,0,sword,sword
+X. malinche,character_1,2,sword,sword
+X. meyeri,character_1,0,sword,sword
+X. milleri,character_1,0,sword,sword
+X. montezumae,character_1,2,sword,sword
+X. multilineatus,character_1,2,sword,sword
+X. nezahualcqyotl,character_1,2,sword,sword
+X. nigrensis,character_1,2,sword,sword
+X. pygmaeus,character_1,1,sword,sword
+X. signum,character_1,2,sword,sword
+X. variatus,character_1,0,sword,sword
+X. xiphidium,character_1,1,sword,sword
+P. reticulata,character_2,NA,Sword consisting exclusively of unbranched rays,sword
+P. butleri,character_2,NA,Sword consisting exclusively of unbranched rays,sword
+A. hubberi,character_2,NA,Sword consisting exclusively of unbranched rays,sword
+P. coompressa,character_2,NA,Sword consisting exclusively of unbranched rays,sword
+P. intermedia,character_2,NA,Sword consisting exclusively of unbranched rays,sword
+P. olmaceae,character_2,NA,Sword consisting exclusively of unbranched rays,sword
+X. alvarezi,character_2,0,Sword consisting exclusively of unbranched rays,sword
+X. andersi,character_2,0,Sword consisting exclusively of unbranched rays,sword
+X. birchmanni,character_2,NA,Sword consisting exclusively of unbranched rays,sword
+X. clemenciae,character_2,0,Sword consisting exclusively of unbranched rays,sword
+X. continens,character_2,NA,Sword consisting exclusively of unbranched rays,sword
+X. cortezi,character_2,1,Sword consisting exclusively of unbranched rays,sword
+X. couchianus,character_2,NA,Sword consisting exclusively of unbranched rays,sword
+X. evelynae,character_2,NA,Sword consisting exclusively of unbranched rays,sword
+X. gordoni,character_2,NA,Sword consisting exclusively of unbranched rays,sword
+X. helleri,character_2,0,Sword consisting exclusively of unbranched rays,sword
+X. maculatus,character_2,NA,Sword consisting exclusively of unbranched rays,sword
+X. malinche,character_2,1,Sword consisting exclusively of unbranched rays,sword
+X. meyeri,character_2,NA,Sword consisting exclusively of unbranched rays,sword
+X. milleri,character_2,NA,Sword consisting exclusively of unbranched rays,sword
+X. montezumae,character_2,1,Sword consisting exclusively of unbranched rays,sword
+X. multilineatus,character_2,1,Sword consisting exclusively of unbranched rays,sword
+X. nezahualcqyotl,character_2,1,Sword consisting exclusively of unbranched rays,sword
+X. nigrensis,character_2,1,Sword consisting exclusively of unbranched rays,sword
+X. pygmaeus,character_2,NA,Sword consisting exclusively of unbranched rays,sword
+X. signum,character_2,0,Sword consisting exclusively of unbranched rays,sword
+X. variatus,character_2,NA,Sword consisting exclusively of unbranched rays,sword
+X. xiphidium,character_2,0,Sword consisting exclusively of unbranched rays,sword
+P. reticulata,character_3,NA,Upturned sword,sword
+P. butleri,character_3,NA,Upturned sword,sword
+A. hubberi,character_3,NA,Upturned sword,sword
+P. coompressa,character_3,NA,Upturned sword,sword
+P. intermedia,character_3,NA,Upturned sword,sword
+P. olmaceae,character_3,NA,Upturned sword,sword
+X. alvarezi,character_3,0,Upturned sword,sword
+X. andersi,character_3,0,Upturned sword,sword
+X. birchmanni,character_3,NA,Upturned sword,sword
+X. clemenciae,character_3,1,Upturned sword,sword
+X. continens,character_3,NA,Upturned sword,sword
+X. cortezi,character_3,1,Upturned sword,sword
+X. couchianus,character_3,NA,Upturned sword,sword
+X. evelynae,character_3,NA,Upturned sword,sword
+X. gordoni,character_3,NA,Upturned sword,sword
+X. helleri,character_3,0,Upturned sword,sword
+X. maculatus,character_3,NA,Upturned sword,sword
+X. malinche,character_3,1,Upturned sword,sword
+X. meyeri,character_3,NA,Upturned sword,sword
+X. milleri,character_3,NA,Upturned sword,sword
+X. montezumae,character_3,1,Upturned sword,sword
+X. multilineatus,character_3,1,Upturned sword,sword
+X. nezahualcqyotl,character_3,1,Upturned sword,sword
+X. nigrensis,character_3,1,Upturned sword,sword
+X. pygmaeus,character_3,NA,Upturned sword,sword
+X. signum,character_3,0,Upturned sword,sword
+X. variatus,character_3,NA,Upturned sword,sword
+X. xiphidium,character_3,0,Upturned sword,sword
+P. reticulata,character_4,0,Distal serrae on ray 4p of the gonopodium.,gonopodium
+P. butleri,character_4,0,Distal serrae on ray 4p of the gonopodium.,gonopodium
+A. hubberi,character_4,0,Distal serrae on ray 4p of the gonopodium.,gonopodium
+P. coompressa,character_4,0,Distal serrae on ray 4p of the gonopodium.,gonopodium
+P. intermedia,character_4,0,Distal serrae on ray 4p of the gonopodium.,gonopodium
+P. olmaceae,character_4,0,Distal serrae on ray 4p of the gonopodium.,gonopodium
+X. alvarezi,character_4,2,Distal serrae on ray 4p of the gonopodium.,gonopodium
+X. andersi,character_4,2,Distal serrae on ray 4p of the gonopodium.,gonopodium
+X. birchmanni,character_4,2,Distal serrae on ray 4p of the gonopodium.,gonopodium
+X. clemenciae,character_4,2,Distal serrae on ray 4p of the gonopodium.,gonopodium
+X. continens,character_4,2,Distal serrae on ray 4p of the gonopodium.,gonopodium
+X. cortezi,character_4,2,Distal serrae on ray 4p of the gonopodium.,gonopodium
+X. couchianus,character_4,4,Distal serrae on ray 4p of the gonopodium.,gonopodium
+X. evelynae,character_4,2,Distal serrae on ray 4p of the gonopodium.,gonopodium
+X. gordoni,character_4,3,Distal serrae on ray 4p of the gonopodium.,gonopodium
+X. helleri,character_4,2,Distal serrae on ray 4p of the gonopodium.,gonopodium
+X. maculatus,character_4,2,Distal serrae on ray 4p of the gonopodium.,gonopodium
+X. malinche,character_4,2,Distal serrae on ray 4p of the gonopodium.,gonopodium
+X. meyeri,character_4,3,Distal serrae on ray 4p of the gonopodium.,gonopodium
+X. milleri,character_4,2,Distal serrae on ray 4p of the gonopodium.,gonopodium
+X. montezumae,character_4,2,Distal serrae on ray 4p of the gonopodium.,gonopodium
+X. multilineatus,character_4,1,Distal serrae on ray 4p of the gonopodium.,gonopodium
+X. nezahualcqyotl,character_4,2,Distal serrae on ray 4p of the gonopodium.,gonopodium
+X. nigrensis,character_4,1,Distal serrae on ray 4p of the gonopodium.,gonopodium
+X. pygmaeus,character_4,1,Distal serrae on ray 4p of the gonopodium.,gonopodium
+X. signum,character_4,2,Distal serrae on ray 4p of the gonopodium.,gonopodium
+X. variatus,character_4,2,Distal serrae on ray 4p of the gonopodium.,gonopodium
+X. xiphidium,character_4,2,Distal serrae on ray 4p of the gonopodium.,gonopodium
+P. reticulata,character_5,0,Well-formedhookonray5aofthegonopodium,gonopodium
+P. butleri,character_5,0,Well-formedhookonray5aofthegonopodium,gonopodium
+A. hubberi,character_5,0,Well-formedhookonray5aofthegonopodium,gonopodium
+P. coompressa,character_5,0,Well-formedhookonray5aofthegonopodium,gonopodium
+P. intermedia,character_5,0,Well-formedhookonray5aofthegonopodium,gonopodium
+P. olmaceae,character_5,0,Well-formedhookonray5aofthegonopodium,gonopodium
+X. alvarezi,character_5,2,Well-formedhookonray5aofthegonopodium,gonopodium
+X. andersi,character_5,0,Well-formedhookonray5aofthegonopodium,gonopodium
+X. birchmanni,character_5,1,Well-formedhookonray5aofthegonopodium,gonopodium
+X. clemenciae,character_5,1,Well-formedhookonray5aofthegonopodium,gonopodium
+X. continens,character_5,1,Well-formedhookonray5aofthegonopodium,gonopodium
+X. cortezi,character_5,1,Well-formedhookonray5aofthegonopodium,gonopodium
+X. couchianus,character_5,0,Well-formedhookonray5aofthegonopodium,gonopodium
+X. evelynae,character_5,0,Well-formedhookonray5aofthegonopodium,gonopodium
+X. gordoni,character_5,0,Well-formedhookonray5aofthegonopodium,gonopodium
+X. helleri,character_5,2,Well-formedhookonray5aofthegonopodium,gonopodium
+X. maculatus,character_5,0,Well-formedhookonray5aofthegonopodium,gonopodium
+X. malinche,character_5,1,Well-formedhookonray5aofthegonopodium,gonopodium
+X. meyeri,character_5,0,Well-formedhookonray5aofthegonopodium,gonopodium
+X. milleri,character_5,0,Well-formedhookonray5aofthegonopodium,gonopodium
+X. montezumae,character_5,1,Well-formedhookonray5aofthegonopodium,gonopodium
+X. multilineatus,character_5,1,Well-formedhookonray5aofthegonopodium,gonopodium
+X. nezahualcqyotl,character_5,1,Well-formedhookonray5aofthegonopodium,gonopodium
+X. nigrensis,character_5,1,Well-formedhookonray5aofthegonopodium,gonopodium
+X. pygmaeus,character_5,1,Well-formedhookonray5aofthegonopodium,gonopodium
+X. signum,character_5,2,Well-formedhookonray5aofthegonopodium,gonopodium
+X. variatus,character_5,0,Well-formedhookonray5aofthegonopodium,gonopodium
+X. xiphidium,character_5,0,Well-formedhookonray5aofthegonopodium,gonopodium
+P. reticulata,character_6,0,Granular tissue on the dorsal part of the hook on ray 3 of the gonopodium,gonopodium
+P. butleri,character_6,0,Granular tissue on the dorsal part of the hook on ray 3 of the gonopodium,gonopodium
+A. hubberi,character_6,0,Granular tissue on the dorsal part of the hook on ray 3 of the gonopodium,gonopodium
+P. coompressa,character_6,1,Granular tissue on the dorsal part of the hook on ray 3 of the gonopodium,gonopodium
+P. intermedia,character_6,1,Granular tissue on the dorsal part of the hook on ray 3 of the gonopodium,gonopodium
+P. olmaceae,character_6,1,Granular tissue on the dorsal part of the hook on ray 3 of the gonopodium,gonopodium
+X. alvarezi,character_6,2,Granular tissue on the dorsal part of the hook on ray 3 of the gonopodium,gonopodium
+X. andersi,character_6,4,Granular tissue on the dorsal part of the hook on ray 3 of the gonopodium,gonopodium
+X. birchmanni,character_6,4,Granular tissue on the dorsal part of the hook on ray 3 of the gonopodium,gonopodium
+X. clemenciae,character_6,4,Granular tissue on the dorsal part of the hook on ray 3 of the gonopodium,gonopodium
+X. continens,character_6,4,Granular tissue on the dorsal part of the hook on ray 3 of the gonopodium,gonopodium
+X. cortezi,character_6,4,Granular tissue on the dorsal part of the hook on ray 3 of the gonopodium,gonopodium
+X. couchianus,character_6,4,Granular tissue on the dorsal part of the hook on ray 3 of the gonopodium,gonopodium
+X. evelynae,character_6,4,Granular tissue on the dorsal part of the hook on ray 3 of the gonopodium,gonopodium
+X. gordoni,character_6,4,Granular tissue on the dorsal part of the hook on ray 3 of the gonopodium,gonopodium
+X. helleri,character_6,3,Granular tissue on the dorsal part of the hook on ray 3 of the gonopodium,gonopodium
+X. maculatus,character_6,4,Granular tissue on the dorsal part of the hook on ray 3 of the gonopodium,gonopodium
+X. malinche,character_6,4,Granular tissue on the dorsal part of the hook on ray 3 of the gonopodium,gonopodium
+X. meyeri,character_6,4,Granular tissue on the dorsal part of the hook on ray 3 of the gonopodium,gonopodium
+X. milleri,character_6,4,Granular tissue on the dorsal part of the hook on ray 3 of the gonopodium,gonopodium
+X. montezumae,character_6,4,Granular tissue on the dorsal part of the hook on ray 3 of the gonopodium,gonopodium
+X. multilineatus,character_6,4,Granular tissue on the dorsal part of the hook on ray 3 of the gonopodium,gonopodium
+X. nezahualcqyotl,character_6,4,Granular tissue on the dorsal part of the hook on ray 3 of the gonopodium,gonopodium
+X. nigrensis,character_6,4,Granular tissue on the dorsal part of the hook on ray 3 of the gonopodium,gonopodium
+X. pygmaeus,character_6,4,Granular tissue on the dorsal part of the hook on ray 3 of the gonopodium,gonopodium
+X. signum,character_6,3,Granular tissue on the dorsal part of the hook on ray 3 of the gonopodium,gonopodium
+X. variatus,character_6,4,Granular tissue on the dorsal part of the hook on ray 3 of the gonopodium,gonopodium
+X. xiphidium,character_6,4,Granular tissue on the dorsal part of the hook on ray 3 of the gonopodium,gonopodium
+P. reticulata,character_7,0,Subdistal spines on ray 3 of the gonopodium,gonopodium
+P. butleri,character_7,0,Subdistal spines on ray 3 of the gonopodium,gonopodium
+A. hubberi,character_7,1,Subdistal spines on ray 3 of the gonopodium,gonopodium
+P. coompressa,character_7,0,Subdistal spines on ray 3 of the gonopodium,gonopodium
+P. intermedia,character_7,0,Subdistal spines on ray 3 of the gonopodium,gonopodium
+P. olmaceae,character_7,0,Subdistal spines on ray 3 of the gonopodium,gonopodium
+X. alvarezi,character_7,2,Subdistal spines on ray 3 of the gonopodium,gonopodium
+X. andersi,character_7,2,Subdistal spines on ray 3 of the gonopodium,gonopodium
+X. birchmanni,character_7,2,Subdistal spines on ray 3 of the gonopodium,gonopodium
+X. clemenciae,character_7,2,Subdistal spines on ray 3 of the gonopodium,gonopodium
+X. continens,character_7,2,Subdistal spines on ray 3 of the gonopodium,gonopodium
+X. cortezi,character_7,2,Subdistal spines on ray 3 of the gonopodium,gonopodium
+X. couchianus,character_7,3,Subdistal spines on ray 3 of the gonopodium,gonopodium
+X. evelynae,character_7,2,Subdistal spines on ray 3 of the gonopodium,gonopodium
+X. gordoni,character_7,3,Subdistal spines on ray 3 of the gonopodium,gonopodium
+X. helleri,character_7,2,Subdistal spines on ray 3 of the gonopodium,gonopodium
+X. maculatus,character_7,2,Subdistal spines on ray 3 of the gonopodium,gonopodium
+X. malinche,character_7,2,Subdistal spines on ray 3 of the gonopodium,gonopodium
+X. meyeri,character_7,3,Subdistal spines on ray 3 of the gonopodium,gonopodium
+X. milleri,character_7,2,Subdistal spines on ray 3 of the gonopodium,gonopodium
+X. montezumae,character_7,2,Subdistal spines on ray 3 of the gonopodium,gonopodium
+X. multilineatus,character_7,2,Subdistal spines on ray 3 of the gonopodium,gonopodium
+X. nezahualcqyotl,character_7,2,Subdistal spines on ray 3 of the gonopodium,gonopodium
+X. nigrensis,character_7,2,Subdistal spines on ray 3 of the gonopodium,gonopodium
+X. pygmaeus,character_7,2,Subdistal spines on ray 3 of the gonopodium,gonopodium
+X. signum,character_7,2,Subdistal spines on ray 3 of the gonopodium,gonopodium
+X. variatus,character_7,2,Subdistal spines on ray 3 of the gonopodium,gonopodium
+X. xiphidium,character_7,2,Subdistal spines on ray 3 of the gonopodium,gonopodium
+P. reticulata,character_8,0,Size of segments of the distal ramus of ray 4a of the gonopodium,gonopodium
+P. butleri,character_8,0,Size of segments of the distal ramus of ray 4a of the gonopodium,gonopodium
+A. hubberi,character_8,0,Size of segments of the distal ramus of ray 4a of the gonopodium,gonopodium
+P. coompressa,character_8,0,Size of segments of the distal ramus of ray 4a of the gonopodium,gonopodium
+P. intermedia,character_8,0,Size of segments of the distal ramus of ray 4a of the gonopodium,gonopodium
+P. olmaceae,character_8,0,Size of segments of the distal ramus of ray 4a of the gonopodium,gonopodium
+X. alvarezi,character_8,1,Size of segments of the distal ramus of ray 4a of the gonopodium,gonopodium
+X. andersi,character_8,0,Size of segments of the distal ramus of ray 4a of the gonopodium,gonopodium
+X. birchmanni,character_8,0,Size of segments of the distal ramus of ray 4a of the gonopodium,gonopodium
+X. clemenciae,character_8,0,Size of segments of the distal ramus of ray 4a of the gonopodium,gonopodium
+X. continens,character_8,0,Size of segments of the distal ramus of ray 4a of the gonopodium,gonopodium
+X. cortezi,character_8,0,Size of segments of the distal ramus of ray 4a of the gonopodium,gonopodium
+X. couchianus,character_8,0,Size of segments of the distal ramus of ray 4a of the gonopodium,gonopodium
+X. evelynae,character_8,0,Size of segments of the distal ramus of ray 4a of the gonopodium,gonopodium
+X. gordoni,character_8,0,Size of segments of the distal ramus of ray 4a of the gonopodium,gonopodium
+X. helleri,character_8,2,Size of segments of the distal ramus of ray 4a of the gonopodium,gonopodium
+X. maculatus,character_8,0,Size of segments of the distal ramus of ray 4a of the gonopodium,gonopodium
+X. malinche,character_8,0,Size of segments of the distal ramus of ray 4a of the gonopodium,gonopodium
+X. meyeri,character_8,0,Size of segments of the distal ramus of ray 4a of the gonopodium,gonopodium
+X. milleri,character_8,0,Size of segments of the distal ramus of ray 4a of the gonopodium,gonopodium
+X. montezumae,character_8,0,Size of segments of the distal ramus of ray 4a of the gonopodium,gonopodium
+X. multilineatus,character_8,0,Size of segments of the distal ramus of ray 4a of the gonopodium,gonopodium
+X. nezahualcqyotl,character_8,0,Size of segments of the distal ramus of ray 4a of the gonopodium,gonopodium
+X. nigrensis,character_8,0,Size of segments of the distal ramus of ray 4a of the gonopodium,gonopodium
+X. pygmaeus,character_8,0,Size of segments of the distal ramus of ray 4a of the gonopodium,gonopodium
+X. signum,character_8,2,Size of segments of the distal ramus of ray 4a of the gonopodium,gonopodium
+X. variatus,character_8,0,Size of segments of the distal ramus of ray 4a of the gonopodium,gonopodium
+X. xiphidium,character_8,0,Size of segments of the distal ramus of ray 4a of the gonopodium,gonopodium
+P. reticulata,character_9,1,ubdistal serrae on ray 4p of the gonopodium,gonopodium
+P. butleri,character_9,1,ubdistal serrae on ray 4p of the gonopodium,gonopodium
+A. hubberi,character_9,0,ubdistal serrae on ray 4p of the gonopodium,gonopodium
+P. coompressa,character_9,1,ubdistal serrae on ray 4p of the gonopodium,gonopodium
+P. intermedia,character_9,1,ubdistal serrae on ray 4p of the gonopodium,gonopodium
+P. olmaceae,character_9,1,ubdistal serrae on ray 4p of the gonopodium,gonopodium
+X. alvarezi,character_9,1,ubdistal serrae on ray 4p of the gonopodium,gonopodium
+X. andersi,character_9,1,ubdistal serrae on ray 4p of the gonopodium,gonopodium
+X. birchmanni,character_9,1,ubdistal serrae on ray 4p of the gonopodium,gonopodium
+X. clemenciae,character_9,1,ubdistal serrae on ray 4p of the gonopodium,gonopodium
+X. continens,character_9,1,ubdistal serrae on ray 4p of the gonopodium,gonopodium
+X. cortezi,character_9,1,ubdistal serrae on ray 4p of the gonopodium,gonopodium
+X. couchianus,character_9,1,ubdistal serrae on ray 4p of the gonopodium,gonopodium
+X. evelynae,character_9,1,ubdistal serrae on ray 4p of the gonopodium,gonopodium
+X. gordoni,character_9,1,ubdistal serrae on ray 4p of the gonopodium,gonopodium
+X. helleri,character_9,1,ubdistal serrae on ray 4p of the gonopodium,gonopodium
+X. maculatus,character_9,1,ubdistal serrae on ray 4p of the gonopodium,gonopodium
+X. malinche,character_9,1,ubdistal serrae on ray 4p of the gonopodium,gonopodium
+X. meyeri,character_9,1,ubdistal serrae on ray 4p of the gonopodium,gonopodium
+X. milleri,character_9,1,ubdistal serrae on ray 4p of the gonopodium,gonopodium
+X. montezumae,character_9,1,ubdistal serrae on ray 4p of the gonopodium,gonopodium
+X. multilineatus,character_9,1,ubdistal serrae on ray 4p of the gonopodium,gonopodium
+X. nezahualcqyotl,character_9,1,ubdistal serrae on ray 4p of the gonopodium,gonopodium
+X. nigrensis,character_9,1,ubdistal serrae on ray 4p of the gonopodium,gonopodium
+X. pygmaeus,character_9,1,ubdistal serrae on ray 4p of the gonopodium,gonopodium
+X. signum,character_9,1,ubdistal serrae on ray 4p of the gonopodium,gonopodium
+X. variatus,character_9,1,ubdistal serrae on ray 4p of the gonopodium,gonopodium
+X. xiphidium,character_9,1,ubdistal serrae on ray 4p of the gonopodium,gonopodium
+P. reticulata,character_10,NA,Headbump,morphology
+P. butleri,character_10,NA,Headbump,morphology
+A. hubberi,character_10,NA,Headbump,morphology
+P. coompressa,character_10,NA,Headbump,morphology
+P. intermedia,character_10,NA,Headbump,morphology
+P. olmaceae,character_10,NA,Headbump,morphology
+X. alvarezi,character_10,0,Headbump,morphology
+X. andersi,character_10,0,Headbump,morphology
+X. birchmanni,character_10,1,Headbump,morphology
+X. clemenciae,character_10,0,Headbump,morphology
+X. continens,character_10,0,Headbump,morphology
+X. cortezi,character_10,0,Headbump,morphology
+X. couchianus,character_10,0,Headbump,morphology
+X. evelynae,character_10,0,Headbump,morphology
+X. gordoni,character_10,0,Headbump,morphology
+X. helleri,character_10,0,Headbump,morphology
+X. maculatus,character_10,0,Headbump,morphology
+X. malinche,character_10,1,Headbump,morphology
+X. meyeri,character_10,0,Headbump,morphology
+X. milleri,character_10,0,Headbump,morphology
+X. montezumae,character_10,0,Headbump,morphology
+X. multilineatus,character_10,0,Headbump,morphology
+X. nezahualcqyotl,character_10,0,Headbump,morphology
+X. nigrensis,character_10,0,Headbump,morphology
+X. pygmaeus,character_10,0,Headbump,morphology
+X. signum,character_10,0,Headbump,morphology
+X. variatus,character_10,0,Headbump,morphology
+X. xiphidium,character_10,0,Headbump,morphology
+P. reticulata,character_11,1,Malepelvicene,morphology
+P. butleri,character_11,1,Malepelvicene,morphology
+A. hubberi,character_11,0,Malepelvicene,morphology
+P. coompressa,character_11,1,Malepelvicene,morphology
+P. intermedia,character_11,1,Malepelvicene,morphology
+P. olmaceae,character_11,1,Malepelvicene,morphology
+X. alvarezi,character_11,1,Malepelvicene,morphology
+X. andersi,character_11,1,Malepelvicene,morphology
+X. birchmanni,character_11,1,Malepelvicene,morphology
+X. clemenciae,character_11,1,Malepelvicene,morphology
+X. continens,character_11,1,Malepelvicene,morphology
+X. cortezi,character_11,1,Malepelvicene,morphology
+X. couchianus,character_11,1,Malepelvicene,morphology
+X. evelynae,character_11,1,Malepelvicene,morphology
+X. gordoni,character_11,1,Malepelvicene,morphology
+X. helleri,character_11,1,Malepelvicene,morphology
+X. maculatus,character_11,1,Malepelvicene,morphology
+X. malinche,character_11,1,Malepelvicene,morphology
+X. meyeri,character_11,1,Malepelvicene,morphology
+X. milleri,character_11,1,Malepelvicene,morphology
+X. montezumae,character_11,1,Malepelvicene,morphology
+X. multilineatus,character_11,1,Malepelvicene,morphology
+X. nezahualcqyotl,character_11,1,Malepelvicene,morphology
+X. nigrensis,character_11,1,Malepelvicene,morphology
+X. pygmaeus,character_11,1,Malepelvicene,morphology
+X. signum,character_11,1,Malepelvicene,morphology
+X. variatus,character_11,1,Malepelvicene,morphology
+X. xiphidium,character_11,1,Malepelvicene,morphology
+P. reticulata,character_12,1,Teeth compressed spatulate,morphology
+P. butleri,character_12,1,Teeth compressed spatulate,morphology
+A. hubberi,character_12,0,Teeth compressed spatulate,morphology
+P. coompressa,character_12,1,Teeth compressed spatulate,morphology
+P. intermedia,character_12,1,Teeth compressed spatulate,morphology
+P. olmaceae,character_12,1,Teeth compressed spatulate,morphology
+X. alvarezi,character_12,1,Teeth compressed spatulate,morphology
+X. andersi,character_12,1,Teeth compressed spatulate,morphology
+X. birchmanni,character_12,1,Teeth compressed spatulate,morphology
+X. clemenciae,character_12,1,Teeth compressed spatulate,morphology
+X. continens,character_12,1,Teeth compressed spatulate,morphology
+X. cortezi,character_12,1,Teeth compressed spatulate,morphology
+X. couchianus,character_12,1,Teeth compressed spatulate,morphology
+X. evelynae,character_12,1,Teeth compressed spatulate,morphology
+X. gordoni,character_12,1,Teeth compressed spatulate,morphology
+X. helleri,character_12,1,Teeth compressed spatulate,morphology
+X. maculatus,character_12,1,Teeth compressed spatulate,morphology
+X. malinche,character_12,1,Teeth compressed spatulate,morphology
+X. meyeri,character_12,1,Teeth compressed spatulate,morphology
+X. milleri,character_12,1,Teeth compressed spatulate,morphology
+X. montezumae,character_12,1,Teeth compressed spatulate,morphology
+X. multilineatus,character_12,1,Teeth compressed spatulate,morphology
+X. nezahualcqyotl,character_12,1,Teeth compressed spatulate,morphology
+X. nigrensis,character_12,1,Teeth compressed spatulate,morphology
+X. pygmaeus,character_12,1,Teeth compressed spatulate,morphology
+X. signum,character_12,1,Teeth compressed spatulate,morphology
+X. variatus,character_12,1,Teeth compressed spatulate,morphology
+X. xiphidium,character_12,1,Teeth compressed spatulate,morphology
+P. reticulata,character_13,NA,Elongateventralcaudale_nrays.,morphology
+P. butleri,character_13,NA,Elongateventralcaudale_nrays.,morphology
+A. hubberi,character_13,NA,Elongateventralcaudale_nrays.,morphology
+P. coompressa,character_13,NA,Elongateventralcaudale_nrays.,morphology
+P. intermedia,character_13,NA,Elongateventralcaudale_nrays.,morphology
+P. olmaceae,character_13,NA,Elongateventralcaudale_nrays.,morphology
+X. alvarezi,character_13,1,Elongateventralcaudale_nrays.,morphology
+X. andersi,character_13,1,Elongateventralcaudale_nrays.,morphology
+X. birchmanni,character_13,1,Elongateventralcaudale_nrays.,morphology
+X. clemenciae,character_13,1,Elongateventralcaudale_nrays.,morphology
+X. continens,character_13,1,Elongateventralcaudale_nrays.,morphology
+X. cortezi,character_13,1,Elongateventralcaudale_nrays.,morphology
+X. couchianus,character_13,0,Elongateventralcaudale_nrays.,morphology
+X. evelynae,character_13,1,Elongateventralcaudale_nrays.,morphology
+X. gordoni,character_13,0,Elongateventralcaudale_nrays.,morphology
+X. helleri,character_13,1,Elongateventralcaudale_nrays.,morphology
+X. maculatus,character_13,1,Elongateventralcaudale_nrays.,morphology
+X. malinche,character_13,1,Elongateventralcaudale_nrays.,morphology
+X. meyeri,character_13,0,Elongateventralcaudale_nrays.,morphology
+X. milleri,character_13,1,Elongateventralcaudale_nrays.,morphology
+X. montezumae,character_13,1,Elongateventralcaudale_nrays.,morphology
+X. multilineatus,character_13,1,Elongateventralcaudale_nrays.,morphology
+X. nezahualcqyotl,character_13,1,Elongateventralcaudale_nrays.,morphology
+X. nigrensis,character_13,1,Elongateventralcaudale_nrays.,morphology
+X. pygmaeus,character_13,1,Elongateventralcaudale_nrays.,morphology
+X. signum,character_13,1,Elongateventralcaudale_nrays.,morphology
+X. variatus,character_13,1,Elongateventralcaudale_nrays.,morphology
+X. xiphidium,character_13,1,Elongateventralcaudale_nrays.,morphology
+P. reticulata,character_14,NA,Width of the base of the dorsal e_n,morphology
+P. butleri,character_14,NA,Width of the base of the dorsal e_n,morphology
+A. hubberi,character_14,NA,Width of the base of the dorsal e_n,morphology
+P. coompressa,character_14,NA,Width of the base of the dorsal e_n,morphology
+P. intermedia,character_14,NA,Width of the base of the dorsal e_n,morphology
+P. olmaceae,character_14,NA,Width of the base of the dorsal e_n,morphology
+X. alvarezi,character_14,NA,Width of the base of the dorsal e_n,morphology
+X. andersi,character_14,NA,Width of the base of the dorsal e_n,morphology
+X. birchmanni,character_14,NA,Width of the base of the dorsal e_n,morphology
+X. clemenciae,character_14,NA,Width of the base of the dorsal e_n,morphology
+X. continens,character_14,NA,Width of the base of the dorsal e_n,morphology
+X. cortezi,character_14,NA,Width of the base of the dorsal e_n,morphology
+X. couchianus,character_14,NA,Width of the base of the dorsal e_n,morphology
+X. evelynae,character_14,1,Width of the base of the dorsal e_n,morphology
+X. gordoni,character_14,NA,Width of the base of the dorsal e_n,morphology
+X. helleri,character_14,7,Width of the base of the dorsal e_n,morphology
+X. maculatus,character_14,2,Width of the base of the dorsal e_n,morphology
+X. malinche,character_14,NA,Width of the base of the dorsal e_n,morphology
+X. meyeri,character_14,NA,Width of the base of the dorsal e_n,morphology
+X. milleri,character_14,2,Width of the base of the dorsal e_n,morphology
+X. montezumae,character_14,NA,Width of the base of the dorsal e_n,morphology
+X. multilineatus,character_14,NA,Width of the base of the dorsal e_n,morphology
+X. nezahualcqyotl,character_14,NA,Width of the base of the dorsal e_n,morphology
+X. nigrensis,character_14,NA,Width of the base of the dorsal e_n,morphology
+X. pygmaeus,character_14,NA,Width of the base of the dorsal e_n,morphology
+X. signum,character_14,NA,Width of the base of the dorsal e_n,morphology
+X. variatus,character_14,1,Width of the base of the dorsal e_n,morphology
+X. xiphidium,character_14,1,Width of the base of the dorsal e_n,morphology
+P. reticulata,character_15,NA,Growthrate,growth
+P. butleri,character_15,NA,Growthrate,growth
+A. hubberi,character_15,NA,Growthrate,growth
+P. coompressa,character_15,NA,Growthrate,growth
+P. intermedia,character_15,NA,Growthrate,growth
+P. olmaceae,character_15,NA,Growthrate,growth
+X. alvarezi,character_15,0,Growthrate,growth
+X. andersi,character_15,0,Growthrate,growth
+X. birchmanni,character_15,0,Growthrate,growth
+X. clemenciae,character_15,0,Growthrate,growth
+X. continens,character_15,0,Growthrate,growth
+X. cortezi,character_15,0,Growthrate,growth
+X. couchianus,character_15,0,Growthrate,growth
+X. evelynae,character_15,NA,Growthrate,growth
+X. gordoni,character_15,NA,Growthrate,growth
+X. helleri,character_15,0,Growthrate,growth
+X. maculatus,character_15,0,Growthrate,growth
+X. malinche,character_15,0,Growthrate,growth
+X. meyeri,character_15,NA,Growthrate,growth
+X. milleri,character_15,0,Growthrate,growth
+X. montezumae,character_15,0,Growthrate,growth
+X. multilineatus,character_15,1,Growthrate,growth
+X. nezahualcqyotl,character_15,0,Growthrate,growth
+X. nigrensis,character_15,1,Growthrate,growth
+X. pygmaeus,character_15,0,Growthrate,growth
+X. signum,character_15,NA,Growthrate,growth
+X. variatus,character_15,NA,Growthrate,growth
+X. xiphidium,character_15,NA,Growthrate,growth
+P. reticulata,character_16,NA,Allometric growth of sword.,growth
+P. butleri,character_16,NA,Allometric growth of sword.,growth
+A. hubberi,character_16,NA,Allometric growth of sword.,growth
+P. coompressa,character_16,NA,Allometric growth of sword.,growth
+P. intermedia,character_16,NA,Allometric growth of sword.,growth
+P. olmaceae,character_16,NA,Allometric growth of sword.,growth
+X. alvarezi,character_16,0,Allometric growth of sword.,growth
+X. andersi,character_16,0,Allometric growth of sword.,growth
+X. birchmanni,character_16,NA,Allometric growth of sword.,growth
+X. clemenciae,character_16,0,Allometric growth of sword.,growth
+X. continens,character_16,NA,Allometric growth of sword.,growth
+X. cortezi,character_16,0,Allometric growth of sword.,growth
+X. couchianus,character_16,NA,Allometric growth of sword.,growth
+X. evelynae,character_16,NA,Allometric growth of sword.,growth
+X. gordoni,character_16,NA,Allometric growth of sword.,growth
+X. helleri,character_16,0,Allometric growth of sword.,growth
+X. maculatus,character_16,NA,Allometric growth of sword.,growth
+X. malinche,character_16,0,Allometric growth of sword.,growth
+X. meyeri,character_16,NA,Allometric growth of sword.,growth
+X. milleri,character_16,NA,Allometric growth of sword.,growth
+X. montezumae,character_16,0,Allometric growth of sword.,growth
+X. multilineatus,character_16,1,Allometric growth of sword.,growth
+X. nezahualcqyotl,character_16,0,Allometric growth of sword.,growth
+X. nigrensis,character_16,1,Allometric growth of sword.,growth
+X. pygmaeus,character_16,NA,Allometric growth of sword.,growth
+X. signum,character_16,0,Allometric growth of sword.,growth
+X. variatus,character_16,NA,Allometric growth of sword.,growth
+X. xiphidium,character_16,NA,Allometric growth of sword.,growth
+P. reticulata,character_17,NA,Sex-determining mechanism,sex_determination
+P. butleri,character_17,2,Sex-determining mechanism,sex_determination
+A. hubberi,character_17,NA,Sex-determining mechanism,sex_determination
+P. coompressa,character_17,NA,Sex-determining mechanism,sex_determination
+P. intermedia,character_17,NA,Sex-determining mechanism,sex_determination
+P. olmaceae,character_17,NA,Sex-determining mechanism,sex_determination
+X. alvarezi,character_17,2,Sex-determining mechanism,sex_determination
+X. andersi,character_17,0,Sex-determining mechanism,sex_determination
+X. birchmanni,character_17,NA,Sex-determining mechanism,sex_determination
+X. clemenciae,character_17,NA,Sex-determining mechanism,sex_determination
+X. continens,character_17,NA,Sex-determining mechanism,sex_determination
+X. cortezi,character_17,0,Sex-determining mechanism,sex_determination
+X. couchianus,character_17,0,Sex-determining mechanism,sex_determination
+X. evelynae,character_17,NA,Sex-determining mechanism,sex_determination
+X. gordoni,character_17,NA,Sex-determining mechanism,sex_determination
+X. helleri,character_17,2,Sex-determining mechanism,sex_determination
+X. maculatus,character_17,1,Sex-determining mechanism,sex_determination
+X. malinche,character_17,NA,Sex-determining mechanism,sex_determination
+X. meyeri,character_17,NA,Sex-determining mechanism,sex_determination
+X. milleri,character_17,0,Sex-determining mechanism,sex_determination
+X. montezumae,character_17,NA,Sex-determining mechanism,sex_determination
+X. multilineatus,character_17,0,Sex-determining mechanism,sex_determination
+X. nezahualcqyotl,character_17,0,Sex-determining mechanism,sex_determination
+X. nigrensis,character_17,0,Sex-determining mechanism,sex_determination
+X. pygmaeus,character_17,0,Sex-determining mechanism,sex_determination
+X. signum,character_17,NA,Sex-determining mechanism,sex_determination
+X. variatus,character_17,0,Sex-determining mechanism,sex_determination
+X. xiphidium,character_17,0,Sex-determining mechanism,sex_determination
+P. reticulata,character_18,NA,Dusky band continuous with dorsal pigment of sword.,pigmentation
+P. butleri,character_18,NA,Dusky band continuous with dorsal pigment of sword.,pigmentation
+A. hubberi,character_18,NA,Dusky band continuous with dorsal pigment of sword.,pigmentation
+P. coompressa,character_18,NA,Dusky band continuous with dorsal pigment of sword.,pigmentation
+P. intermedia,character_18,NA,Dusky band continuous with dorsal pigment of sword.,pigmentation
+P. olmaceae,character_18,NA,Dusky band continuous with dorsal pigment of sword.,pigmentation
+X. alvarezi,character_18,1,Dusky band continuous with dorsal pigment of sword.,pigmentation
+X. andersi,character_18,0,Dusky band continuous with dorsal pigment of sword.,pigmentation
+X. birchmanni,character_18,NA,Dusky band continuous with dorsal pigment of sword.,pigmentation
+X. clemenciae,character_18,1,Dusky band continuous with dorsal pigment of sword.,pigmentation
+X. continens,character_18,NA,Dusky band continuous with dorsal pigment of sword.,pigmentation
+X. cortezi,character_18,0,Dusky band continuous with dorsal pigment of sword.,pigmentation
+X. couchianus,character_18,NA,Dusky band continuous with dorsal pigment of sword.,pigmentation
+X. evelynae,character_18,NA,Dusky band continuous with dorsal pigment of sword.,pigmentation
+X. gordoni,character_18,NA,Dusky band continuous with dorsal pigment of sword.,pigmentation
+X. helleri,character_18,1,Dusky band continuous with dorsal pigment of sword.,pigmentation
+X. maculatus,character_18,NA,Dusky band continuous with dorsal pigment of sword.,pigmentation
+X. malinche,character_18,0,Dusky band continuous with dorsal pigment of sword.,pigmentation
+X. meyeri,character_18,NA,Dusky band continuous with dorsal pigment of sword.,pigmentation
+X. milleri,character_18,NA,Dusky band continuous with dorsal pigment of sword.,pigmentation
+X. montezumae,character_18,0,Dusky band continuous with dorsal pigment of sword.,pigmentation
+X. multilineatus,character_18,0,Dusky band continuous with dorsal pigment of sword.,pigmentation
+X. nezahualcqyotl,character_18,0,Dusky band continuous with dorsal pigment of sword.,pigmentation
+X. nigrensis,character_18,0,Dusky band continuous with dorsal pigment of sword.,pigmentation
+X. pygmaeus,character_18,NA,Dusky band continuous with dorsal pigment of sword.,pigmentation
+X. signum,character_18,1,Dusky band continuous with dorsal pigment of sword.,pigmentation
+X. variatus,character_18,NA,Dusky band continuous with dorsal pigment of sword.,pigmentation
+X. xiphidium,character_18,NA,Dusky band continuous with dorsal pigment of sword.,pigmentation
+P. reticulata,character_19,0,Proximal dorsal pigmentation of the sword.,pigmentation
+P. butleri,character_19,NA,Proximal dorsal pigmentation of the sword.,pigmentation
+A. hubberi,character_19,NA,Proximal dorsal pigmentation of the sword.,pigmentation
+P. coompressa,character_19,NA,Proximal dorsal pigmentation of the sword.,pigmentation
+P. intermedia,character_19,NA,Proximal dorsal pigmentation of the sword.,pigmentation
+P. olmaceae,character_19,NA,Proximal dorsal pigmentation of the sword.,pigmentation
+X. alvarezi,character_19,1,Proximal dorsal pigmentation of the sword.,pigmentation
+X. andersi,character_19,0,Proximal dorsal pigmentation of the sword.,pigmentation
+X. birchmanni,character_19,0,Proximal dorsal pigmentation of the sword.,pigmentation
+X. clemenciae,character_19,1,Proximal dorsal pigmentation of the sword.,pigmentation
+X. continens,character_19,0,Proximal dorsal pigmentation of the sword.,pigmentation
+X. cortezi,character_19,1,Proximal dorsal pigmentation of the sword.,pigmentation
+X. couchianus,character_19,NA,Proximal dorsal pigmentation of the sword.,pigmentation
+X. evelynae,character_19,NA,Proximal dorsal pigmentation of the sword.,pigmentation
+X. gordoni,character_19,NA,Proximal dorsal pigmentation of the sword.,pigmentation
+X. helleri,character_19,1,Proximal dorsal pigmentation of the sword.,pigmentation
+X. maculatus,character_19,NA,Proximal dorsal pigmentation of the sword.,pigmentation
+X. malinche,character_19,1,Proximal dorsal pigmentation of the sword.,pigmentation
+X. meyeri,character_19,NA,Proximal dorsal pigmentation of the sword.,pigmentation
+X. milleri,character_19,NA,Proximal dorsal pigmentation of the sword.,pigmentation
+X. montezumae,character_19,1,Proximal dorsal pigmentation of the sword.,pigmentation
+X. multilineatus,character_19,1,Proximal dorsal pigmentation of the sword.,pigmentation
+X. nezahualcqyotl,character_19,1,Proximal dorsal pigmentation of the sword.,pigmentation
+X. nigrensis,character_19,1,Proximal dorsal pigmentation of the sword.,pigmentation
+X. pygmaeus,character_19,0,Proximal dorsal pigmentation of the sword.,pigmentation
+X. signum,character_19,1,Proximal dorsal pigmentation of the sword.,pigmentation
+X. variatus,character_19,NA,Proximal dorsal pigmentation of the sword.,pigmentation
+X. xiphidium,character_19,0,Proximal dorsal pigmentation of the sword.,pigmentation
+P. reticulata,character_20,NA,Distal dorsal sword pigment.,pigmentation
+P. butleri,character_20,NA,Distal dorsal sword pigment.,pigmentation
+A. hubberi,character_20,NA,Distal dorsal sword pigment.,pigmentation
+P. coompressa,character_20,NA,Distal dorsal sword pigment.,pigmentation
+P. intermedia,character_20,NA,Distal dorsal sword pigment.,pigmentation
+P. olmaceae,character_20,NA,Distal dorsal sword pigment.,pigmentation
+X. alvarezi,character_20,0,Distal dorsal sword pigment.,pigmentation
+X. andersi,character_20,0,Distal dorsal sword pigment.,pigmentation
+X. birchmanni,character_20,NA,Distal dorsal sword pigment.,pigmentation
+X. clemenciae,character_20,1,Distal dorsal sword pigment.,pigmentation
+X. continens,character_20,NA,Distal dorsal sword pigment.,pigmentation
+X. cortezi,character_20,1,Distal dorsal sword pigment.,pigmentation
+X. couchianus,character_20,NA,Distal dorsal sword pigment.,pigmentation
+X. evelynae,character_20,NA,Distal dorsal sword pigment.,pigmentation
+X. gordoni,character_20,NA,Distal dorsal sword pigment.,pigmentation
+X. helleri,character_20,0,Distal dorsal sword pigment.,pigmentation
+X. maculatus,character_20,NA,Distal dorsal sword pigment.,pigmentation
+X. malinche,character_20,1,Distal dorsal sword pigment.,pigmentation
+X. meyeri,character_20,NA,Distal dorsal sword pigment.,pigmentation
+X. milleri,character_20,NA,Distal dorsal sword pigment.,pigmentation
+X. montezumae,character_20,1,Distal dorsal sword pigment.,pigmentation
+X. multilineatus,character_20,1,Distal dorsal sword pigment.,pigmentation
+X. nezahualcqyotl,character_20,1,Distal dorsal sword pigment.,pigmentation
+X. nigrensis,character_20,1,Distal dorsal sword pigment.,pigmentation
+X. pygmaeus,character_20,NA,Distal dorsal sword pigment.,pigmentation
+X. signum,character_20,0,Distal dorsal sword pigment.,pigmentation
+X. variatus,character_20,NA,Distal dorsal sword pigment.,pigmentation
+X. xiphidium,character_20,0,Distal dorsal sword pigment.,pigmentation
+P. reticulata,character_21,0,Grave spot.,pigmentation
+P. butleri,character_21,0,Grave spot.,pigmentation
+A. hubberi,character_21,0,Grave spot.,pigmentation
+P. coompressa,character_21,0,Grave spot.,pigmentation
+P. intermedia,character_21,0,Grave spot.,pigmentation
+P. olmaceae,character_21,0,Grave spot.,pigmentation
+X. alvarezi,character_21,2,Grave spot.,pigmentation
+X. andersi,character_21,0,Grave spot.,pigmentation
+X. birchmanni,character_21,1,Grave spot.,pigmentation
+X. clemenciae,character_21,1,Grave spot.,pigmentation
+X. continens,character_21,1,Grave spot.,pigmentation
+X. cortezi,character_21,1,Grave spot.,pigmentation
+X. couchianus,character_21,0,Grave spot.,pigmentation
+X. evelynae,character_21,0,Grave spot.,pigmentation
+X. gordoni,character_21,0,Grave spot.,pigmentation
+X. helleri,character_21,2,Grave spot.,pigmentation
+X. maculatus,character_21,0,Grave spot.,pigmentation
+X. malinche,character_21,1,Grave spot.,pigmentation
+X. meyeri,character_21,0,Grave spot.,pigmentation
+X. milleri,character_21,0,Grave spot.,pigmentation
+X. montezumae,character_21,1,Grave spot.,pigmentation
+X. multilineatus,character_21,1,Grave spot.,pigmentation
+X. nezahualcqyotl,character_21,1,Grave spot.,pigmentation
+X. nigrensis,character_21,1,Grave spot.,pigmentation
+X. pygmaeus,character_21,0,Grave spot.,pigmentation
+X. signum,character_21,2,Grave spot.,pigmentation
+X. variatus,character_21,0,Grave spot.,pigmentation
+X. xiphidium,character_21,0,Grave spot.,pigmentation
+P. reticulata,character_22,NA,Ventralmarginofcaudale_nandsworddenselyedged by melanophores,pigmentation
+P. butleri,character_22,NA,Ventralmarginofcaudale_nandsworddenselyedged by melanophores,pigmentation
+A. hubberi,character_22,NA,Ventralmarginofcaudale_nandsworddenselyedged by melanophores,pigmentation
+P. coompressa,character_22,NA,Ventralmarginofcaudale_nandsworddenselyedged by melanophores,pigmentation
+P. intermedia,character_22,NA,Ventralmarginofcaudale_nandsworddenselyedged by melanophores,pigmentation
+P. olmaceae,character_22,NA,Ventralmarginofcaudale_nandsworddenselyedged by melanophores,pigmentation
+X. alvarezi,character_22,1,Ventralmarginofcaudale_nandsworddenselyedged by melanophores,pigmentation
+X. andersi,character_22,0,Ventralmarginofcaudale_nandsworddenselyedged by melanophores,pigmentation
+X. birchmanni,character_22,1,Ventralmarginofcaudale_nandsworddenselyedged by melanophores,pigmentation
+X. clemenciae,character_22,1,Ventralmarginofcaudale_nandsworddenselyedged by melanophores,pigmentation
+X. continens,character_22,0,Ventralmarginofcaudale_nandsworddenselyedged by melanophores,pigmentation
+X. cortezi,character_22,1,Ventralmarginofcaudale_nandsworddenselyedged by melanophores,pigmentation
+X. couchianus,character_22,0,Ventralmarginofcaudale_nandsworddenselyedged by melanophores,pigmentation
+X. evelynae,character_22,0,Ventralmarginofcaudale_nandsworddenselyedged by melanophores,pigmentation
+X. gordoni,character_22,1,Ventralmarginofcaudale_nandsworddenselyedged by melanophores,pigmentation
+X. helleri,character_22,1,Ventralmarginofcaudale_nandsworddenselyedged by melanophores,pigmentation
+X. maculatus,character_22,0,Ventralmarginofcaudale_nandsworddenselyedged by melanophores,pigmentation
+X. malinche,character_22,1,Ventralmarginofcaudale_nandsworddenselyedged by melanophores,pigmentation
+X. meyeri,character_22,0,Ventralmarginofcaudale_nandsworddenselyedged by melanophores,pigmentation
+X. milleri,character_22,0,Ventralmarginofcaudale_nandsworddenselyedged by melanophores,pigmentation
+X. montezumae,character_22,1,Ventralmarginofcaudale_nandsworddenselyedged by melanophores,pigmentation
+X. multilineatus,character_22,1,Ventralmarginofcaudale_nandsworddenselyedged by melanophores,pigmentation
+X. nezahualcqyotl,character_22,1,Ventralmarginofcaudale_nandsworddenselyedged by melanophores,pigmentation
+X. nigrensis,character_22,1,Ventralmarginofcaudale_nandsworddenselyedged by melanophores,pigmentation
+X. pygmaeus,character_22,0,Ventralmarginofcaudale_nandsworddenselyedged by melanophores,pigmentation
+X. signum,character_22,1,Ventralmarginofcaudale_nandsworddenselyedged by melanophores,pigmentation
+X. variatus,character_22,0,Ventralmarginofcaudale_nandsworddenselyedged by melanophores,pigmentation
+X. xiphidium,character_22,0,Ventralmarginofcaudale_nandsworddenselyedged by melanophores,pigmentation
+P. reticulata,character_23,NA,Yellow and orange carotenoid sword pigmentation,pigmentation
+P. butleri,character_23,NA,Yellow and orange carotenoid sword pigmentation,pigmentation
+A. hubberi,character_23,NA,Yellow and orange carotenoid sword pigmentation,pigmentation
+P. coompressa,character_23,NA,Yellow and orange carotenoid sword pigmentation,pigmentation
+P. intermedia,character_23,NA,Yellow and orange carotenoid sword pigmentation,pigmentation
+P. olmaceae,character_23,NA,Yellow and orange carotenoid sword pigmentation,pigmentation
+X. alvarezi,character_23,1,Yellow and orange carotenoid sword pigmentation,pigmentation
+X. andersi,character_23,0,Yellow and orange carotenoid sword pigmentation,pigmentation
+X. birchmanni,character_23,NA,Yellow and orange carotenoid sword pigmentation,pigmentation
+X. clemenciae,character_23,1,Yellow and orange carotenoid sword pigmentation,pigmentation
+X. continens,character_23,NA,Yellow and orange carotenoid sword pigmentation,pigmentation
+X. cortezi,character_23,1,Yellow and orange carotenoid sword pigmentation,pigmentation
+X. couchianus,character_23,NA,Yellow and orange carotenoid sword pigmentation,pigmentation
+X. evelynae,character_23,NA,Yellow and orange carotenoid sword pigmentation,pigmentation
+X. gordoni,character_23,NA,Yellow and orange carotenoid sword pigmentation,pigmentation
+X. helleri,character_23,1,Yellow and orange carotenoid sword pigmentation,pigmentation
+X. maculatus,character_23,NA,Yellow and orange carotenoid sword pigmentation,pigmentation
+X. malinche,character_23,1,Yellow and orange carotenoid sword pigmentation,pigmentation
+X. meyeri,character_23,NA,Yellow and orange carotenoid sword pigmentation,pigmentation
+X. milleri,character_23,NA,Yellow and orange carotenoid sword pigmentation,pigmentation
+X. montezumae,character_23,1,Yellow and orange carotenoid sword pigmentation,pigmentation
+X. multilineatus,character_23,1,Yellow and orange carotenoid sword pigmentation,pigmentation
+X. nezahualcqyotl,character_23,1,Yellow and orange carotenoid sword pigmentation,pigmentation
+X. nigrensis,character_23,1,Yellow and orange carotenoid sword pigmentation,pigmentation
+X. pygmaeus,character_23,NA,Yellow and orange carotenoid sword pigmentation,pigmentation
+X. signum,character_23,NA,Yellow and orange carotenoid sword pigmentation,pigmentation
+X. variatus,character_23,NA,Yellow and orange carotenoid sword pigmentation,pigmentation
+X. xiphidium,character_23,0,Yellow and orange carotenoid sword pigmentation,pigmentation
+P. reticulata,character_24,NA,Green pteridine sword pigmentation,pigmentation
+P. butleri,character_24,NA,Green pteridine sword pigmentation,pigmentation
+A. hubberi,character_24,NA,Green pteridine sword pigmentation,pigmentation
+P. coompressa,character_24,NA,Green pteridine sword pigmentation,pigmentation
+P. intermedia,character_24,NA,Green pteridine sword pigmentation,pigmentation
+P. olmaceae,character_24,NA,Green pteridine sword pigmentation,pigmentation
+X. alvarezi,character_24,1,Green pteridine sword pigmentation,pigmentation
+X. andersi,character_24,0,Green pteridine sword pigmentation,pigmentation
+X. birchmanni,character_24,NA,Green pteridine sword pigmentation,pigmentation
+X. clemenciae,character_24,NA,Green pteridine sword pigmentation,pigmentation
+X. continens,character_24,NA,Green pteridine sword pigmentation,pigmentation
+X. cortezi,character_24,NA,Green pteridine sword pigmentation,pigmentation
+X. couchianus,character_24,NA,Green pteridine sword pigmentation,pigmentation
+X. evelynae,character_24,NA,Green pteridine sword pigmentation,pigmentation
+X. gordoni,character_24,NA,Green pteridine sword pigmentation,pigmentation
+X. helleri,character_24,1,Green pteridine sword pigmentation,pigmentation
+X. maculatus,character_24,NA,Green pteridine sword pigmentation,pigmentation
+X. malinche,character_24,NA,Green pteridine sword pigmentation,pigmentation
+X. meyeri,character_24,NA,Green pteridine sword pigmentation,pigmentation
+X. milleri,character_24,NA,Green pteridine sword pigmentation,pigmentation
+X. montezumae,character_24,NA,Green pteridine sword pigmentation,pigmentation
+X. multilineatus,character_24,NA,Green pteridine sword pigmentation,pigmentation
+X. nezahualcqyotl,character_24,NA,Green pteridine sword pigmentation,pigmentation
+X. nigrensis,character_24,NA,Green pteridine sword pigmentation,pigmentation
+X. pygmaeus,character_24,NA,Green pteridine sword pigmentation,pigmentation
+X. signum,character_24,1,Green pteridine sword pigmentation,pigmentation
+X. variatus,character_24,NA,Green pteridine sword pigmentation,pigmentation
+X. xiphidium,character_24,0,Green pteridine sword pigmentation,pigmentation
+P. reticulata,character_25,NA,Drosopterin,pigmentation
+P. butleri,character_25,NA,Drosopterin,pigmentation
+A. hubberi,character_25,NA,Drosopterin,pigmentation
+P. coompressa,character_25,NA,Drosopterin,pigmentation
+P. intermedia,character_25,NA,Drosopterin,pigmentation
+P. olmaceae,character_25,NA,Drosopterin,pigmentation
+X. alvarezi,character_25,1,Drosopterin,pigmentation
+X. andersi,character_25,NA,Drosopterin,pigmentation
+X. birchmanni,character_25,1,Drosopterin,pigmentation
+X. clemenciae,character_25,1,Drosopterin,pigmentation
+X. continens,character_25,1,Drosopterin,pigmentation
+X. cortezi,character_25,1,Drosopterin,pigmentation
+X. couchianus,character_25,1,Drosopterin,pigmentation
+X. evelynae,character_25,1,Drosopterin,pigmentation
+X. gordoni,character_25,1,Drosopterin,pigmentation
+X. helleri,character_25,1,Drosopterin,pigmentation
+X. maculatus,character_25,1,Drosopterin,pigmentation
+X. malinche,character_25,1,Drosopterin,pigmentation
+X. meyeri,character_25,NA,Drosopterin,pigmentation
+X. milleri,character_25,NA,Drosopterin,pigmentation
+X. montezumae,character_25,1,Drosopterin,pigmentation
+X. multilineatus,character_25,0,Drosopterin,pigmentation
+X. nezahualcqyotl,character_25,1,Drosopterin,pigmentation
+X. nigrensis,character_25,0,Drosopterin,pigmentation
+X. pygmaeus,character_25,0,Drosopterin,pigmentation
+X. signum,character_25,NA,Drosopterin,pigmentation
+X. variatus,character_25,1,Drosopterin,pigmentation
+X. xiphidium,character_25,NA,Drosopterin,pigmentation
+P. reticulata,character_26,NA,Sex-linked red and yellow patterns,pigmentation
+P. butleri,character_26,NA,Sex-linked red and yellow patterns,pigmentation
+A. hubberi,character_26,NA,Sex-linked red and yellow patterns,pigmentation
+P. coompressa,character_26,NA,Sex-linked red and yellow patterns,pigmentation
+P. intermedia,character_26,NA,Sex-linked red and yellow patterns,pigmentation
+P. olmaceae,character_26,NA,Sex-linked red and yellow patterns,pigmentation
+X. alvarezi,character_26,0,Sex-linked red and yellow patterns,pigmentation
+X. andersi,character_26,NA,Sex-linked red and yellow patterns,pigmentation
+X. birchmanni,character_26,0,Sex-linked red and yellow patterns,pigmentation
+X. clemenciae,character_26,0,Sex-linked red and yellow patterns,pigmentation
+X. continens,character_26,0,Sex-linked red and yellow patterns,pigmentation
+X. cortezi,character_26,0,Sex-linked red and yellow patterns,pigmentation
+X. couchianus,character_26,0,Sex-linked red and yellow patterns,pigmentation
+X. evelynae,character_26,1,Sex-linked red and yellow patterns,pigmentation
+X. gordoni,character_26,0,Sex-linked red and yellow patterns,pigmentation
+X. helleri,character_26,0,Sex-linked red and yellow patterns,pigmentation
+X. maculatus,character_26,1,Sex-linked red and yellow patterns,pigmentation
+X. malinche,character_26,0,Sex-linked red and yellow patterns,pigmentation
+X. meyeri,character_26,0,Sex-linked red and yellow patterns,pigmentation
+X. milleri,character_26,1,Sex-linked red and yellow patterns,pigmentation
+X. montezumae,character_26,0,Sex-linked red and yellow patterns,pigmentation
+X. multilineatus,character_26,0,Sex-linked red and yellow patterns,pigmentation
+X. nezahualcqyotl,character_26,0,Sex-linked red and yellow patterns,pigmentation
+X. nigrensis,character_26,0,Sex-linked red and yellow patterns,pigmentation
+X. pygmaeus,character_26,0,Sex-linked red and yellow patterns,pigmentation
+X. signum,character_26,0,Sex-linked red and yellow patterns,pigmentation
+X. variatus,character_26,1,Sex-linked red and yellow patterns,pigmentation
+X. xiphidium,character_26,1,Sex-linked red and yellow patterns,pigmentation
+P. reticulata,character_27,NA,yellow caudal fin,pigmentation
+P. butleri,character_27,NA,yellow caudal fin,pigmentation
+A. hubberi,character_27,NA,yellow caudal fin,pigmentation
+P. coompressa,character_27,NA,yellow caudal fin,pigmentation
+P. intermedia,character_27,NA,yellow caudal fin,pigmentation
+P. olmaceae,character_27,NA,yellow caudal fin,pigmentation
+X. alvarezi,character_27,NA,yellow caudal fin,pigmentation
+X. andersi,character_27,NA,yellow caudal fin,pigmentation
+X. birchmanni,character_27,1,yellow caudal fin,pigmentation
+X. clemenciae,character_27,0,yellow caudal fin,pigmentation
+X. continens,character_27,0,yellow caudal fin,pigmentation
+X. cortezi,character_27,1,yellow caudal fin,pigmentation
+X. couchianus,character_27,NA,yellow caudal fin,pigmentation
+X. evelynae,character_27,NA,yellow caudal fin,pigmentation
+X. gordoni,character_27,NA,yellow caudal fin,pigmentation
+X. helleri,character_27,NA,yellow caudal fin,pigmentation
+X. maculatus,character_27,NA,yellow caudal fin,pigmentation
+X. malinche,character_27,NA,yellow caudal fin,pigmentation
+X. meyeri,character_27,NA,yellow caudal fin,pigmentation
+X. milleri,character_27,NA,yellow caudal fin,pigmentation
+X. montezumae,character_27,0,yellow caudal fin,pigmentation
+X. multilineatus,character_27,1,yellow caudal fin,pigmentation
+X. nezahualcqyotl,character_27,0,yellow caudal fin,pigmentation
+X. nigrensis,character_27,1,yellow caudal fin,pigmentation
+X. pygmaeus,character_27,1,yellow caudal fin,pigmentation
+X. signum,character_27,NA,yellow caudal fin,pigmentation
+X. variatus,character_27,NA,yellow caudal fin,pigmentation
+X. xiphidium,character_27,NA,yellow caudal fin,pigmentation
+P. reticulata,character_28,NA,yellow dorsal and ventral edges of the caudal e_n,pigmentation
+P. butleri,character_28,NA,yellow dorsal and ventral edges of the caudal e_n,pigmentation
+A. hubberi,character_28,NA,yellow dorsal and ventral edges of the caudal e_n,pigmentation
+P. coompressa,character_28,NA,yellow dorsal and ventral edges of the caudal e_n,pigmentation
+P. intermedia,character_28,NA,yellow dorsal and ventral edges of the caudal e_n,pigmentation
+P. olmaceae,character_28,NA,yellow dorsal and ventral edges of the caudal e_n,pigmentation
+X. alvarezi,character_28,NA,yellow dorsal and ventral edges of the caudal e_n,pigmentation
+X. andersi,character_28,NA,yellow dorsal and ventral edges of the caudal e_n,pigmentation
+X. birchmanni,character_28,1,yellow dorsal and ventral edges of the caudal e_n,pigmentation
+X. clemenciae,character_28,0,yellow dorsal and ventral edges of the caudal e_n,pigmentation
+X. continens,character_28,0,yellow dorsal and ventral edges of the caudal e_n,pigmentation
+X. cortezi,character_28,1,yellow dorsal and ventral edges of the caudal e_n,pigmentation
+X. couchianus,character_28,NA,yellow dorsal and ventral edges of the caudal e_n,pigmentation
+X. evelynae,character_28,NA,yellow dorsal and ventral edges of the caudal e_n,pigmentation
+X. gordoni,character_28,NA,yellow dorsal and ventral edges of the caudal e_n,pigmentation
+X. helleri,character_28,NA,yellow dorsal and ventral edges of the caudal e_n,pigmentation
+X. maculatus,character_28,NA,yellow dorsal and ventral edges of the caudal e_n,pigmentation
+X. malinche,character_28,NA,yellow dorsal and ventral edges of the caudal e_n,pigmentation
+X. meyeri,character_28,NA,yellow dorsal and ventral edges of the caudal e_n,pigmentation
+X. milleri,character_28,NA,yellow dorsal and ventral edges of the caudal e_n,pigmentation
+X. montezumae,character_28,0,yellow dorsal and ventral edges of the caudal e_n,pigmentation
+X. multilineatus,character_28,1,yellow dorsal and ventral edges of the caudal e_n,pigmentation
+X. nezahualcqyotl,character_28,0,yellow dorsal and ventral edges of the caudal e_n,pigmentation
+X. nigrensis,character_28,1,yellow dorsal and ventral edges of the caudal e_n,pigmentation
+X. pygmaeus,character_28,0,yellow dorsal and ventral edges of the caudal e_n,pigmentation
+X. signum,character_28,NA,yellow dorsal and ventral edges of the caudal e_n,pigmentation
+X. variatus,character_28,NA,yellow dorsal and ventral edges of the caudal e_n,pigmentation
+X. xiphidium,character_28,NA,yellow dorsal and ventral edges of the caudal e_n,pigmentation
+P. reticulata,character_29,NA,solid yellow body coloration,pigmentation
+P. butleri,character_29,NA,solid yellow body coloration,pigmentation
+A. hubberi,character_29,NA,solid yellow body coloration,pigmentation
+P. coompressa,character_29,NA,solid yellow body coloration,pigmentation
+P. intermedia,character_29,NA,solid yellow body coloration,pigmentation
+P. olmaceae,character_29,NA,solid yellow body coloration,pigmentation
+X. alvarezi,character_29,NA,solid yellow body coloration,pigmentation
+X. andersi,character_29,NA,solid yellow body coloration,pigmentation
+X. birchmanni,character_29,0,solid yellow body coloration,pigmentation
+X. clemenciae,character_29,0,solid yellow body coloration,pigmentation
+X. continens,character_29,0,solid yellow body coloration,pigmentation
+X. cortezi,character_29,0,solid yellow body coloration,pigmentation
+X. couchianus,character_29,NA,solid yellow body coloration,pigmentation
+X. evelynae,character_29,NA,solid yellow body coloration,pigmentation
+X. gordoni,character_29,NA,solid yellow body coloration,pigmentation
+X. helleri,character_29,NA,solid yellow body coloration,pigmentation
+X. maculatus,character_29,NA,solid yellow body coloration,pigmentation
+X. malinche,character_29,0,solid yellow body coloration,pigmentation
+X. meyeri,character_29,NA,solid yellow body coloration,pigmentation
+X. milleri,character_29,NA,solid yellow body coloration,pigmentation
+X. montezumae,character_29,0,solid yellow body coloration,pigmentation
+X. multilineatus,character_29,1,solid yellow body coloration,pigmentation
+X. nezahualcqyotl,character_29,0,solid yellow body coloration,pigmentation
+X. nigrensis,character_29,0,solid yellow body coloration,pigmentation
+X. pygmaeus,character_29,1,solid yellow body coloration,pigmentation
+X. signum,character_29,NA,solid yellow body coloration,pigmentation
+X. variatus,character_29,NA,solid yellow body coloration,pigmentation
+X. xiphidium,character_29,NA,solid yellow body coloration,pigmentation
+P. reticulata,character_30,NA,Two or more rows of red lateral marks,pigmentation
+P. butleri,character_30,NA,Two or more rows of red lateral marks,pigmentation
+A. hubberi,character_30,NA,Two or more rows of red lateral marks,pigmentation
+P. coompressa,character_30,NA,Two or more rows of red lateral marks,pigmentation
+P. intermedia,character_30,NA,Two or more rows of red lateral marks,pigmentation
+P. olmaceae,character_30,NA,Two or more rows of red lateral marks,pigmentation
+X. alvarezi,character_30,1,Two or more rows of red lateral marks,pigmentation
+X. andersi,character_30,0,Two or more rows of red lateral marks,pigmentation
+X. birchmanni,character_30,0,Two or more rows of red lateral marks,pigmentation
+X. clemenciae,character_30,1,Two or more rows of red lateral marks,pigmentation
+X. continens,character_30,0,Two or more rows of red lateral marks,pigmentation
+X. cortezi,character_30,0,Two or more rows of red lateral marks,pigmentation
+X. couchianus,character_30,0,Two or more rows of red lateral marks,pigmentation
+X. evelynae,character_30,0,Two or more rows of red lateral marks,pigmentation
+X. gordoni,character_30,0,Two or more rows of red lateral marks,pigmentation
+X. helleri,character_30,1,Two or more rows of red lateral marks,pigmentation
+X. maculatus,character_30,0,Two or more rows of red lateral marks,pigmentation
+X. malinche,character_30,0,Two or more rows of red lateral marks,pigmentation
+X. meyeri,character_30,0,Two or more rows of red lateral marks,pigmentation
+X. milleri,character_30,0,Two or more rows of red lateral marks,pigmentation
+X. montezumae,character_30,0,Two or more rows of red lateral marks,pigmentation
+X. multilineatus,character_30,0,Two or more rows of red lateral marks,pigmentation
+X. nezahualcqyotl,character_30,0,Two or more rows of red lateral marks,pigmentation
+X. nigrensis,character_30,0,Two or more rows of red lateral marks,pigmentation
+X. pygmaeus,character_30,0,Two or more rows of red lateral marks,pigmentation
+X. signum,character_30,0,Two or more rows of red lateral marks,pigmentation
+X. variatus,character_30,0,Two or more rows of red lateral marks,pigmentation
+X. xiphidium,character_30,0,Two or more rows of red lateral marks,pigmentation
+P. reticulata,character_31,NA,Multiplelateralstripes,pigmentation
+P. butleri,character_31,NA,Multiplelateralstripes,pigmentation
+A. hubberi,character_31,NA,Multiplelateralstripes,pigmentation
+P. coompressa,character_31,NA,Multiplelateralstripes,pigmentation
+P. intermedia,character_31,NA,Multiplelateralstripes,pigmentation
+P. olmaceae,character_31,NA,Multiplelateralstripes,pigmentation
+X. alvarezi,character_31,0,Multiplelateralstripes,pigmentation
+X. andersi,character_31,0,Multiplelateralstripes,pigmentation
+X. birchmanni,character_31,0,Multiplelateralstripes,pigmentation
+X. clemenciae,character_31,0,Multiplelateralstripes,pigmentation
+X. continens,character_31,1,Multiplelateralstripes,pigmentation
+X. cortezi,character_31,0,Multiplelateralstripes,pigmentation
+X. couchianus,character_31,0,Multiplelateralstripes,pigmentation
+X. evelynae,character_31,2,Multiplelateralstripes,pigmentation
+X. gordoni,character_31,0,Multiplelateralstripes,pigmentation
+X. helleri,character_31,0,Multiplelateralstripes,pigmentation
+X. maculatus,character_31,0,Multiplelateralstripes,pigmentation
+X. malinche,character_31,0,Multiplelateralstripes,pigmentation
+X. meyeri,character_31,0,Multiplelateralstripes,pigmentation
+X. milleri,character_31,0,Multiplelateralstripes,pigmentation
+X. montezumae,character_31,2,Multiplelateralstripes,pigmentation
+X. multilineatus,character_31,0,Multiplelateralstripes,pigmentation
+X. nezahualcqyotl,character_31,2,Multiplelateralstripes,pigmentation
+X. nigrensis,character_31,0,Multiplelateralstripes,pigmentation
+X. pygmaeus,character_31,0,Multiplelateralstripes,pigmentation
+X. signum,character_31,0,Multiplelateralstripes,pigmentation
+X. variatus,character_31,2,Multiplelateralstripes,pigmentation
+X. xiphidium,character_31,2,Multiplelateralstripes,pigmentation
+P. reticulata,character_32,NA,Solidmidlateralstripeatbirth,pigmentation
+P. butleri,character_32,NA,Solidmidlateralstripeatbirth,pigmentation
+A. hubberi,character_32,NA,Solidmidlateralstripeatbirth,pigmentation
+P. coompressa,character_32,NA,Solidmidlateralstripeatbirth,pigmentation
+P. intermedia,character_32,NA,Solidmidlateralstripeatbirth,pigmentation
+P. olmaceae,character_32,NA,Solidmidlateralstripeatbirth,pigmentation
+X. alvarezi,character_32,0,Solidmidlateralstripeatbirth,pigmentation
+X. andersi,character_32,0,Solidmidlateralstripeatbirth,pigmentation
+X. birchmanni,character_32,0,Solidmidlateralstripeatbirth,pigmentation
+X. clemenciae,character_32,0,Solidmidlateralstripeatbirth,pigmentation
+X. continens,character_32,0,Solidmidlateralstripeatbirth,pigmentation
+X. cortezi,character_32,0,Solidmidlateralstripeatbirth,pigmentation
+X. couchianus,character_32,0,Solidmidlateralstripeatbirth,pigmentation
+X. evelynae,character_32,0,Solidmidlateralstripeatbirth,pigmentation
+X. gordoni,character_32,0,Solidmidlateralstripeatbirth,pigmentation
+X. helleri,character_32,0,Solidmidlateralstripeatbirth,pigmentation
+X. maculatus,character_32,0,Solidmidlateralstripeatbirth,pigmentation
+X. malinche,character_32,0,Solidmidlateralstripeatbirth,pigmentation
+X. meyeri,character_32,0,Solidmidlateralstripeatbirth,pigmentation
+X. milleri,character_32,0,Solidmidlateralstripeatbirth,pigmentation
+X. montezumae,character_32,0,Solidmidlateralstripeatbirth,pigmentation
+X. multilineatus,character_32,1,Solidmidlateralstripeatbirth,pigmentation
+X. nezahualcqyotl,character_32,0,Solidmidlateralstripeatbirth,pigmentation
+X. nigrensis,character_32,1,Solidmidlateralstripeatbirth,pigmentation
+X. pygmaeus,character_32,1,Solidmidlateralstripeatbirth,pigmentation
+X. signum,character_32,0,Solidmidlateralstripeatbirth,pigmentation
+X. variatus,character_32,0,Solidmidlateralstripeatbirth,pigmentation
+X. xiphidium,character_32,0,Solidmidlateralstripeatbirth,pigmentation
+P. reticulata,character_33,NA,Vertical bars,pigmentation
+P. butleri,character_33,NA,Vertical bars,pigmentation
+A. hubberi,character_33,NA,Vertical bars,pigmentation
+P. coompressa,character_33,NA,Vertical bars,pigmentation
+P. intermedia,character_33,NA,Vertical bars,pigmentation
+P. olmaceae,character_33,NA,Vertical bars,pigmentation
+X. alvarezi,character_33,0,Vertical bars,pigmentation
+X. andersi,character_33,NA,Vertical bars,pigmentation
+X. birchmanni,character_33,2,Vertical bars,pigmentation
+X. clemenciae,character_33,0,Vertical bars,pigmentation
+X. continens,character_33,0,Vertical bars,pigmentation
+X. cortezi,character_33,1,Vertical bars,pigmentation
+X. couchianus,character_33,1,Vertical bars,pigmentation
+X. evelynae,character_33,1,Vertical bars,pigmentation
+X. gordoni,character_33,1,Vertical bars,pigmentation
+X. helleri,character_33,1,Vertical bars,pigmentation
+X. maculatus,character_33,1,Vertical bars,pigmentation
+X. malinche,character_33,2,Vertical bars,pigmentation
+X. meyeri,character_33,NA,Vertical bars,pigmentation
+X. milleri,character_33,1,Vertical bars,pigmentation
+X. montezumae,character_33,1,Vertical bars,pigmentation
+X. multilineatus,character_33,1,Vertical bars,pigmentation
+X. nezahualcqyotl,character_33,1,Vertical bars,pigmentation
+X. nigrensis,character_33,0,Vertical bars,pigmentation
+X. pygmaeus,character_33,0,Vertical bars,pigmentation
+X. signum,character_33,0,Vertical bars,pigmentation
+X. variatus,character_33,1,Vertical bars,pigmentation
+X. xiphidium,character_33,1,Vertical bars,pigmentation
+P. reticulata,character_34,NA,Bodybicolored,pigmentation
+P. butleri,character_34,NA,Bodybicolored,pigmentation
+A. hubberi,character_34,NA,Bodybicolored,pigmentation
+P. coompressa,character_34,NA,Bodybicolored,pigmentation
+P. intermedia,character_34,NA,Bodybicolored,pigmentation
+P. olmaceae,character_34,NA,Bodybicolored,pigmentation
+X. alvarezi,character_34,0,Bodybicolored,pigmentation
+X. andersi,character_34,0,Bodybicolored,pigmentation
+X. birchmanni,character_34,0,Bodybicolored,pigmentation
+X. clemenciae,character_34,0,Bodybicolored,pigmentation
+X. continens,character_34,0,Bodybicolored,pigmentation
+X. cortezi,character_34,0,Bodybicolored,pigmentation
+X. couchianus,character_34,1,Bodybicolored,pigmentation
+X. evelynae,character_34,0,Bodybicolored,pigmentation
+X. gordoni,character_34,2,Bodybicolored,pigmentation
+X. helleri,character_34,0,Bodybicolored,pigmentation
+X. maculatus,character_34,0,Bodybicolored,pigmentation
+X. malinche,character_34,0,Bodybicolored,pigmentation
+X. meyeri,character_34,1,Bodybicolored,pigmentation
+X. milleri,character_34,0,Bodybicolored,pigmentation
+X. montezumae,character_34,0,Bodybicolored,pigmentation
+X. multilineatus,character_34,0,Bodybicolored,pigmentation
+X. nezahualcqyotl,character_34,0,Bodybicolored,pigmentation
+X. nigrensis,character_34,0,Bodybicolored,pigmentation
+X. pygmaeus,character_34,0,Bodybicolored,pigmentation
+X. signum,character_34,0,Bodybicolored,pigmentation
+X. variatus,character_34,0,Bodybicolored,pigmentation
+X. xiphidium,character_34,0,Bodybicolored,pigmentation
+P. reticulata,character_35,NA,Dark subdermal dashes of pigment.,pigmentation
+P. butleri,character_35,NA,Dark subdermal dashes of pigment.,pigmentation
+A. hubberi,character_35,NA,Dark subdermal dashes of pigment.,pigmentation
+P. coompressa,character_35,NA,Dark subdermal dashes of pigment.,pigmentation
+P. intermedia,character_35,NA,Dark subdermal dashes of pigment.,pigmentation
+P. olmaceae,character_35,NA,Dark subdermal dashes of pigment.,pigmentation
+X. alvarezi,character_35,0,Dark subdermal dashes of pigment.,pigmentation
+X. andersi,character_35,0,Dark subdermal dashes of pigment.,pigmentation
+X. birchmanni,character_35,0,Dark subdermal dashes of pigment.,pigmentation
+X. clemenciae,character_35,0,Dark subdermal dashes of pigment.,pigmentation
+X. continens,character_35,0,Dark subdermal dashes of pigment.,pigmentation
+X. cortezi,character_35,0,Dark subdermal dashes of pigment.,pigmentation
+X. couchianus,character_35,1,Dark subdermal dashes of pigment.,pigmentation
+X. evelynae,character_35,0,Dark subdermal dashes of pigment.,pigmentation
+X. gordoni,character_35,1,Dark subdermal dashes of pigment.,pigmentation
+X. helleri,character_35,0,Dark subdermal dashes of pigment.,pigmentation
+X. maculatus,character_35,0,Dark subdermal dashes of pigment.,pigmentation
+X. malinche,character_35,0,Dark subdermal dashes of pigment.,pigmentation
+X. meyeri,character_35,2,Dark subdermal dashes of pigment.,pigmentation
+X. milleri,character_35,0,Dark subdermal dashes of pigment.,pigmentation
+X. montezumae,character_35,0,Dark subdermal dashes of pigment.,pigmentation
+X. multilineatus,character_35,0,Dark subdermal dashes of pigment.,pigmentation
+X. nezahualcqyotl,character_35,0,Dark subdermal dashes of pigment.,pigmentation
+X. nigrensis,character_35,0,Dark subdermal dashes of pigment.,pigmentation
+X. pygmaeus,character_35,0,Dark subdermal dashes of pigment.,pigmentation
+X. signum,character_35,0,Dark subdermal dashes of pigment.,pigmentation
+X. variatus,character_35,0,Dark subdermal dashes of pigment.,pigmentation
+X. xiphidium,character_35,0,Dark subdermal dashes of pigment.,pigmentation
+P. reticulata,character_36,NA,Twoormoreobliquelinesbehindpectoralbase,pigmentation
+P. butleri,character_36,NA,Twoormoreobliquelinesbehindpectoralbase,pigmentation
+A. hubberi,character_36,NA,Twoormoreobliquelinesbehindpectoralbase,pigmentation
+P. coompressa,character_36,NA,Twoormoreobliquelinesbehindpectoralbase,pigmentation
+P. intermedia,character_36,NA,Twoormoreobliquelinesbehindpectoralbase,pigmentation
+P. olmaceae,character_36,NA,Twoormoreobliquelinesbehindpectoralbase,pigmentation
+X. alvarezi,character_36,0,Twoormoreobliquelinesbehindpectoralbase,pigmentation
+X. andersi,character_36,NA,Twoormoreobliquelinesbehindpectoralbase,pigmentation
+X. birchmanni,character_36,0,Twoormoreobliquelinesbehindpectoralbase,pigmentation
+X. clemenciae,character_36,0,Twoormoreobliquelinesbehindpectoralbase,pigmentation
+X. continens,character_36,0,Twoormoreobliquelinesbehindpectoralbase,pigmentation
+X. cortezi,character_36,0,Twoormoreobliquelinesbehindpectoralbase,pigmentation
+X. couchianus,character_36,0,Twoormoreobliquelinesbehindpectoralbase,pigmentation
+X. evelynae,character_36,1,Twoormoreobliquelinesbehindpectoralbase,pigmentation
+X. gordoni,character_36,0,Twoormoreobliquelinesbehindpectoralbase,pigmentation
+X. helleri,character_36,0,Twoormoreobliquelinesbehindpectoralbase,pigmentation
+X. maculatus,character_36,0,Twoormoreobliquelinesbehindpectoralbase,pigmentation
+X. malinche,character_36,0,Twoormoreobliquelinesbehindpectoralbase,pigmentation
+X. meyeri,character_36,NA,Twoormoreobliquelinesbehindpectoralbase,pigmentation
+X. milleri,character_36,0,Twoormoreobliquelinesbehindpectoralbase,pigmentation
+X. montezumae,character_36,0,Twoormoreobliquelinesbehindpectoralbase,pigmentation
+X. multilineatus,character_36,0,Twoormoreobliquelinesbehindpectoralbase,pigmentation
+X. nezahualcqyotl,character_36,0,Twoormoreobliquelinesbehindpectoralbase,pigmentation
+X. nigrensis,character_36,0,Twoormoreobliquelinesbehindpectoralbase,pigmentation
+X. pygmaeus,character_36,0,Twoormoreobliquelinesbehindpectoralbase,pigmentation
+X. signum,character_36,0,Twoormoreobliquelinesbehindpectoralbase,pigmentation
+X. variatus,character_36,1,Twoormoreobliquelinesbehindpectoralbase,pigmentation
+X. xiphidium,character_36,1,Twoormoreobliquelinesbehindpectoralbase,pigmentation
+P. reticulata,character_37,NA,Middorsal spots.,pigmentation
+P. butleri,character_37,NA,Middorsal spots.,pigmentation
+A. hubberi,character_37,NA,Middorsal spots.,pigmentation
+P. coompressa,character_37,NA,Middorsal spots.,pigmentation
+P. intermedia,character_37,NA,Middorsal spots.,pigmentation
+P. olmaceae,character_37,NA,Middorsal spots.,pigmentation
+X. alvarezi,character_37,0,Middorsal spots.,pigmentation
+X. andersi,character_37,0,Middorsal spots.,pigmentation
+X. birchmanni,character_37,1,Middorsal spots.,pigmentation
+X. clemenciae,character_37,0,Middorsal spots.,pigmentation
+X. continens,character_37,0,Middorsal spots.,pigmentation
+X. cortezi,character_37,0,Middorsal spots.,pigmentation
+X. couchianus,character_37,0,Middorsal spots.,pigmentation
+X. evelynae,character_37,0,Middorsal spots.,pigmentation
+X. gordoni,character_37,0,Middorsal spots.,pigmentation
+X. helleri,character_37,0,Middorsal spots.,pigmentation
+X. maculatus,character_37,0,Middorsal spots.,pigmentation
+X. malinche,character_37,1,Middorsal spots.,pigmentation
+X. meyeri,character_37,0,Middorsal spots.,pigmentation
+X. milleri,character_37,0,Middorsal spots.,pigmentation
+X. montezumae,character_37,0,Middorsal spots.,pigmentation
+X. multilineatus,character_37,0,Middorsal spots.,pigmentation
+X. nezahualcqyotl,character_37,0,Middorsal spots.,pigmentation
+X. nigrensis,character_37,0,Middorsal spots.,pigmentation
+X. pygmaeus,character_37,0,Middorsal spots.,pigmentation
+X. signum,character_37,0,Middorsal spots.,pigmentation
+X. variatus,character_37,0,Middorsal spots.,pigmentation
+X. xiphidium,character_37,0,Middorsal spots.,pigmentation
+P. reticulata,character_38,NA,Dorsal fin with dark marginal pigment and a sub- basal row of dark spots on the interradial membrane,pigmentation
+P. butleri,character_38,NA,Dorsal fin with dark marginal pigment and a sub- basal row of dark spots on the interradial membrane,pigmentation
+A. hubberi,character_38,NA,Dorsal fin with dark marginal pigment and a sub- basal row of dark spots on the interradial membrane,pigmentation
+P. coompressa,character_38,NA,Dorsal fin with dark marginal pigment and a sub- basal row of dark spots on the interradial membrane,pigmentation
+P. intermedia,character_38,NA,Dorsal fin with dark marginal pigment and a sub- basal row of dark spots on the interradial membrane,pigmentation
+P. olmaceae,character_38,NA,Dorsal fin with dark marginal pigment and a sub- basal row of dark spots on the interradial membrane,pigmentation
+X. alvarezi,character_38,0,Dorsal fin with dark marginal pigment and a sub- basal row of dark spots on the interradial membrane,pigmentation
+X. andersi,character_38,NA,Dorsal fin with dark marginal pigment and a sub- basal row of dark spots on the interradial membrane,pigmentation
+X. birchmanni,character_38,NA,Dorsal fin with dark marginal pigment and a sub- basal row of dark spots on the interradial membrane,pigmentation
+X. clemenciae,character_38,0,Dorsal fin with dark marginal pigment and a sub- basal row of dark spots on the interradial membrane,pigmentation
+X. continens,character_38,NA,Dorsal fin with dark marginal pigment and a sub- basal row of dark spots on the interradial membrane,pigmentation
+X. cortezi,character_38,0,Dorsal fin with dark marginal pigment and a sub- basal row of dark spots on the interradial membrane,pigmentation
+X. couchianus,character_38,0,Dorsal fin with dark marginal pigment and a sub- basal row of dark spots on the interradial membrane,pigmentation
+X. evelynae,character_38,0,Dorsal fin with dark marginal pigment and a sub- basal row of dark spots on the interradial membrane,pigmentation
+X. gordoni,character_38,0,Dorsal fin with dark marginal pigment and a sub- basal row of dark spots on the interradial membrane,pigmentation
+X. helleri,character_38,0,Dorsal fin with dark marginal pigment and a sub- basal row of dark spots on the interradial membrane,pigmentation
+X. maculatus,character_38,0,Dorsal fin with dark marginal pigment and a sub- basal row of dark spots on the interradial membrane,pigmentation
+X. malinche,character_38,NA,Dorsal fin with dark marginal pigment and a sub- basal row of dark spots on the interradial membrane,pigmentation
+X. meyeri,character_38,NA,Dorsal fin with dark marginal pigment and a sub- basal row of dark spots on the interradial membrane,pigmentation
+X. milleri,character_38,0,Dorsal fin with dark marginal pigment and a sub- basal row of dark spots on the interradial membrane,pigmentation
+X. montezumae,character_38,0,Dorsal fin with dark marginal pigment and a sub- basal row of dark spots on the interradial membrane,pigmentation
+X. multilineatus,character_38,NA,Dorsal fin with dark marginal pigment and a sub- basal row of dark spots on the interradial membrane,pigmentation
+X. nezahualcqyotl,character_38,NA,Dorsal fin with dark marginal pigment and a sub- basal row of dark spots on the interradial membrane,pigmentation
+X. nigrensis,character_38,1,Dorsal fin with dark marginal pigment and a sub- basal row of dark spots on the interradial membrane,pigmentation
+X. pygmaeus,character_38,1,Dorsal fin with dark marginal pigment and a sub- basal row of dark spots on the interradial membrane,pigmentation
+X. signum,character_38,0,Dorsal fin with dark marginal pigment and a sub- basal row of dark spots on the interradial membrane,pigmentation
+X. variatus,character_38,0,Dorsal fin with dark marginal pigment and a sub- basal row of dark spots on the interradial membrane,pigmentation
+X. xiphidium,character_38,0,Dorsal fin with dark marginal pigment and a sub- basal row of dark spots on the interradial membrane,pigmentation
+P. reticulata,character_39,NA,Black or darkly pigmented gonopodium,pigmentation
+P. butleri,character_39,NA,Black or darkly pigmented gonopodium,pigmentation
+A. hubberi,character_39,NA,Black or darkly pigmented gonopodium,pigmentation
+P. coompressa,character_39,NA,Black or darkly pigmented gonopodium,pigmentation
+P. intermedia,character_39,NA,Black or darkly pigmented gonopodium,pigmentation
+P. olmaceae,character_39,NA,Black or darkly pigmented gonopodium,pigmentation
+X. alvarezi,character_39,0,Black or darkly pigmented gonopodium,pigmentation
+X. andersi,character_39,NA,Black or darkly pigmented gonopodium,pigmentation
+X. birchmanni,character_39,0,Black or darkly pigmented gonopodium,pigmentation
+X. clemenciae,character_39,0,Black or darkly pigmented gonopodium,pigmentation
+X. continens,character_39,0,Black or darkly pigmented gonopodium,pigmentation
+X. cortezi,character_39,0,Black or darkly pigmented gonopodium,pigmentation
+X. couchianus,character_39,1,Black or darkly pigmented gonopodium,pigmentation
+X. evelynae,character_39,0,Black or darkly pigmented gonopodium,pigmentation
+X. gordoni,character_39,1,Black or darkly pigmented gonopodium,pigmentation
+X. helleri,character_39,0,Black or darkly pigmented gonopodium,pigmentation
+X. maculatus,character_39,1,Black or darkly pigmented gonopodium,pigmentation
+X. malinche,character_39,0,Black or darkly pigmented gonopodium,pigmentation
+X. meyeri,character_39,1,Black or darkly pigmented gonopodium,pigmentation
+X. milleri,character_39,1,Black or darkly pigmented gonopodium,pigmentation
+X. montezumae,character_39,0,Black or darkly pigmented gonopodium,pigmentation
+X. multilineatus,character_39,0,Black or darkly pigmented gonopodium,pigmentation
+X. nezahualcqyotl,character_39,0,Black or darkly pigmented gonopodium,pigmentation
+X. nigrensis,character_39,0,Black or darkly pigmented gonopodium,pigmentation
+X. pygmaeus,character_39,0,Black or darkly pigmented gonopodium,pigmentation
+X. signum,character_39,0,Black or darkly pigmented gonopodium,pigmentation
+X. variatus,character_39,1,Black or darkly pigmented gonopodium,pigmentation
+X. xiphidium,character_39,1,Black or darkly pigmented gonopodium,pigmentation
+P. reticulata,character_40,0,Caudal blotch,pigmentation
+P. butleri,character_40,0,Caudal blotch,pigmentation
+A. hubberi,character_40,0,Caudal blotch,pigmentation
+P. coompressa,character_40,0,Caudal blotch,pigmentation
+P. intermedia,character_40,0,Caudal blotch,pigmentation
+P. olmaceae,character_40,0,Caudal blotch,pigmentation
+X. alvarezi,character_40,0,Caudal blotch,pigmentation
+X. andersi,character_40,0,Caudal blotch,pigmentation
+X. birchmanni,character_40,0,Caudal blotch,pigmentation
+X. clemenciae,character_40,0,Caudal blotch,pigmentation
+X. continens,character_40,0,Caudal blotch,pigmentation
+X. cortezi,character_40,1,Caudal blotch,pigmentation
+X. couchianus,character_40,0,Caudal blotch,pigmentation
+X. evelynae,character_40,0,Caudal blotch,pigmentation
+X. gordoni,character_40,0,Caudal blotch,pigmentation
+X. helleri,character_40,0,Caudal blotch,pigmentation
+X. maculatus,character_40,0,Caudal blotch,pigmentation
+X. malinche,character_40,1,Caudal blotch,pigmentation
+X. meyeri,character_40,0,Caudal blotch,pigmentation
+X. milleri,character_40,0,Caudal blotch,pigmentation
+X. montezumae,character_40,0,Caudal blotch,pigmentation
+X. multilineatus,character_40,1,Caudal blotch,pigmentation
+X. nezahualcqyotl,character_40,1,Caudal blotch,pigmentation
+X. nigrensis,character_40,1,Caudal blotch,pigmentation
+X. pygmaeus,character_40,0,Caudal blotch,pigmentation
+X. signum,character_40,0,Caudal blotch,pigmentation
+X. variatus,character_40,0,Caudal blotch,pigmentation
+X. xiphidium,character_40,0,Caudal blotch,pigmentation
+P. reticulata,character_41,NA,Spotted caudal,pigmentation
+P. butleri,character_41,NA,Spotted caudal,pigmentation
+A. hubberi,character_41,NA,Spotted caudal,pigmentation
+P. coompressa,character_41,NA,Spotted caudal,pigmentation
+P. intermedia,character_41,NA,Spotted caudal,pigmentation
+P. olmaceae,character_41,NA,Spotted caudal,pigmentation
+X. alvarezi,character_41,0,Spotted caudal,pigmentation
+X. andersi,character_41,0,Spotted caudal,pigmentation
+X. birchmanni,character_41,1,Spotted caudal,pigmentation
+X. clemenciae,character_41,0,Spotted caudal,pigmentation
+X. continens,character_41,0,Spotted caudal,pigmentation
+X. cortezi,character_41,1,Spotted caudal,pigmentation
+X. couchianus,character_41,0,Spotted caudal,pigmentation
+X. evelynae,character_41,0,Spotted caudal,pigmentation
+X. gordoni,character_41,0,Spotted caudal,pigmentation
+X. helleri,character_41,0,Spotted caudal,pigmentation
+X. maculatus,character_41,0,Spotted caudal,pigmentation
+X. malinche,character_41,NA,Spotted caudal,pigmentation
+X. meyeri,character_41,0,Spotted caudal,pigmentation
+X. milleri,character_41,0,Spotted caudal,pigmentation
+X. montezumae,character_41,0,Spotted caudal,pigmentation
+X. multilineatus,character_41,0,Spotted caudal,pigmentation
+X. nezahualcqyotl,character_41,0,Spotted caudal,pigmentation
+X. nigrensis,character_41,0,Spotted caudal,pigmentation
+X. pygmaeus,character_41,0,Spotted caudal,pigmentation
+X. signum,character_41,0,Spotted caudal,pigmentation
+X. variatus,character_41,2,Spotted caudal,pigmentation
+X. xiphidium,character_41,0,Spotted caudal,pigmentation
+P. reticulata,character_42,NA,Carbomac- ulatus,pigmentation
+P. butleri,character_42,NA,Carbomac- ulatus,pigmentation
+A. hubberi,character_42,NA,Carbomac- ulatus,pigmentation
+P. coompressa,character_42,NA,Carbomac- ulatus,pigmentation
+P. intermedia,character_42,NA,Carbomac- ulatus,pigmentation
+P. olmaceae,character_42,NA,Carbomac- ulatus,pigmentation
+X. alvarezi,character_42,0,Carbomac- ulatus,pigmentation
+X. andersi,character_42,0,Carbomac- ulatus,pigmentation
+X. birchmanni,character_42,1,Carbomac- ulatus,pigmentation
+X. clemenciae,character_42,0,Carbomac- ulatus,pigmentation
+X. continens,character_42,0,Carbomac- ulatus,pigmentation
+X. cortezi,character_42,1,Carbomac- ulatus,pigmentation
+X. couchianus,character_42,0,Carbomac- ulatus,pigmentation
+X. evelynae,character_42,0,Carbomac- ulatus,pigmentation
+X. gordoni,character_42,0,Carbomac- ulatus,pigmentation
+X. helleri,character_42,0,Carbomac- ulatus,pigmentation
+X. maculatus,character_42,0,Carbomac- ulatus,pigmentation
+X. malinche,character_42,NA,Carbomac- ulatus,pigmentation
+X. meyeri,character_42,0,Carbomac- ulatus,pigmentation
+X. milleri,character_42,0,Carbomac- ulatus,pigmentation
+X. montezumae,character_42,0,Carbomac- ulatus,pigmentation
+X. multilineatus,character_42,0,Carbomac- ulatus,pigmentation
+X. nezahualcqyotl,character_42,0,Carbomac- ulatus,pigmentation
+X. nigrensis,character_42,0,Carbomac- ulatus,pigmentation
+X. pygmaeus,character_42,0,Carbomac- ulatus,pigmentation
+X. signum,character_42,0,Carbomac- ulatus,pigmentation
+X. variatus,character_42,0,Carbomac- ulatus,pigmentation
+X. xiphidium,character_42,0,Carbomac- ulatus,pigmentation
+P. reticulata,character_43,NA,Alleles at the tailspot locus.,pigmentation
+P. butleri,character_43,NA,Alleles at the tailspot locus.,pigmentation
+A. hubberi,character_43,NA,Alleles at the tailspot locus.,pigmentation
+P. coompressa,character_43,NA,Alleles at the tailspot locus.,pigmentation
+P. intermedia,character_43,NA,Alleles at the tailspot locus.,pigmentation
+P. olmaceae,character_43,NA,Alleles at the tailspot locus.,pigmentation
+X. alvarezi,character_43,0,Alleles at the tailspot locus.,pigmentation
+X. andersi,character_43,NA,Alleles at the tailspot locus.,pigmentation
+X. birchmanni,character_43,NA,Alleles at the tailspot locus.,pigmentation
+X. clemenciae,character_43,0,Alleles at the tailspot locus.,pigmentation
+X. continens,character_43,NA,Alleles at the tailspot locus.,pigmentation
+X. cortezi,character_43,0,Alleles at the tailspot locus.,pigmentation
+X. couchianus,character_43,0,Alleles at the tailspot locus.,pigmentation
+X. evelynae,character_43,0,Alleles at the tailspot locus.,pigmentation
+X. gordoni,character_43,0,Alleles at the tailspot locus.,pigmentation
+X. helleri,character_43,0,Alleles at the tailspot locus.,pigmentation
+X. maculatus,character_43,2,Alleles at the tailspot locus.,pigmentation
+X. malinche,character_43,NA,Alleles at the tailspot locus.,pigmentation
+X. meyeri,character_43,NA,Alleles at the tailspot locus.,pigmentation
+X. milleri,character_43,1,Alleles at the tailspot locus.,pigmentation
+X. montezumae,character_43,0,Alleles at the tailspot locus.,pigmentation
+X. multilineatus,character_43,NA,Alleles at the tailspot locus.,pigmentation
+X. nezahualcqyotl,character_43,NA,Alleles at the tailspot locus.,pigmentation
+X. nigrensis,character_43,0,Alleles at the tailspot locus.,pigmentation
+X. pygmaeus,character_43,0,Alleles at the tailspot locus.,pigmentation
+X. signum,character_43,0,Alleles at the tailspot locus.,pigmentation
+X. variatus,character_43,3,Alleles at the tailspot locus.,pigmentation
+X. xiphidium,character_43,4,Alleles at the tailspot locus.,pigmentation
+P. reticulata,character_44,NA,ex-linked macromelanophore locus.,pigmentation
+P. butleri,character_44,NA,ex-linked macromelanophore locus.,pigmentation
+A. hubberi,character_44,NA,ex-linked macromelanophore locus.,pigmentation
+P. coompressa,character_44,NA,ex-linked macromelanophore locus.,pigmentation
+P. intermedia,character_44,NA,ex-linked macromelanophore locus.,pigmentation
+P. olmaceae,character_44,NA,ex-linked macromelanophore locus.,pigmentation
+X. alvarezi,character_44,0,ex-linked macromelanophore locus.,pigmentation
+X. andersi,character_44,NA,ex-linked macromelanophore locus.,pigmentation
+X. birchmanni,character_44,0,ex-linked macromelanophore locus.,pigmentation
+X. clemenciae,character_44,0,ex-linked macromelanophore locus.,pigmentation
+X. continens,character_44,0,ex-linked macromelanophore locus.,pigmentation
+X. cortezi,character_44,0,ex-linked macromelanophore locus.,pigmentation
+X. couchianus,character_44,0,ex-linked macromelanophore locus.,pigmentation
+X. evelynae,character_44,1,ex-linked macromelanophore locus.,pigmentation
+X. gordoni,character_44,0,ex-linked macromelanophore locus.,pigmentation
+X. helleri,character_44,0,ex-linked macromelanophore locus.,pigmentation
+X. maculatus,character_44,1,ex-linked macromelanophore locus.,pigmentation
+X. malinche,character_44,0,ex-linked macromelanophore locus.,pigmentation
+X. meyeri,character_44,NA,ex-linked macromelanophore locus.,pigmentation
+X. milleri,character_44,1,ex-linked macromelanophore locus.,pigmentation
+X. montezumae,character_44,0,ex-linked macromelanophore locus.,pigmentation
+X. multilineatus,character_44,0,ex-linked macromelanophore locus.,pigmentation
+X. nezahualcqyotl,character_44,1,ex-linked macromelanophore locus.,pigmentation
+X. nigrensis,character_44,0,ex-linked macromelanophore locus.,pigmentation
+X. pygmaeus,character_44,0,ex-linked macromelanophore locus.,pigmentation
+X. signum,character_44,0,ex-linked macromelanophore locus.,pigmentation
+X. variatus,character_44,1,ex-linked macromelanophore locus.,pigmentation
+X. xiphidium,character_44,1,ex-linked macromelanophore locus.,pigmentation
+P. reticulata,character_45,NA,Well-developed precopulatory behavior,behavior
+P. butleri,character_45,NA,Well-developed precopulatory behavior,behavior
+A. hubberi,character_45,NA,Well-developed precopulatory behavior,behavior
+P. coompressa,character_45,NA,Well-developed precopulatory behavior,behavior
+P. intermedia,character_45,NA,Well-developed precopulatory behavior,behavior
+P. olmaceae,character_45,NA,Well-developed precopulatory behavior,behavior
+X. alvarezi,character_45,1,Well-developed precopulatory behavior,behavior
+X. andersi,character_45,1,Well-developed precopulatory behavior,behavior
+X. birchmanni,character_45,NA,Well-developed precopulatory behavior,behavior
+X. clemenciae,character_45,1,Well-developed precopulatory behavior,behavior
+X. continens,character_45,NA,Well-developed precopulatory behavior,behavior
+X. cortezi,character_45,1,Well-developed precopulatory behavior,behavior
+X. couchianus,character_45,1,Well-developed precopulatory behavior,behavior
+X. evelynae,character_45,0,Well-developed precopulatory behavior,behavior
+X. gordoni,character_45,0,Well-developed precopulatory behavior,behavior
+X. helleri,character_45,1,Well-developed precopulatory behavior,behavior
+X. maculatus,character_45,0,Well-developed precopulatory behavior,behavior
+X. malinche,character_45,NA,Well-developed precopulatory behavior,behavior
+X. meyeri,character_45,0,Well-developed precopulatory behavior,behavior
+X. milleri,character_45,0,Well-developed precopulatory behavior,behavior
+X. montezumae,character_45,1,Well-developed precopulatory behavior,behavior
+X. multilineatus,character_45,1,Well-developed precopulatory behavior,behavior
+X. nezahualcqyotl,character_45,NA,Well-developed precopulatory behavior,behavior
+X. nigrensis,character_45,1,Well-developed precopulatory behavior,behavior
+X. pygmaeus,character_45,1,Well-developed precopulatory behavior,behavior
+X. signum,character_45,1,Well-developed precopulatory behavior,behavior
+X. variatus,character_45,1,Well-developed precopulatory behavior,behavior
+X. xiphidium,character_45,1,Well-developed precopulatory behavior,behavior
+P. reticulata,character_46,NA,nipping,behavior
+P. butleri,character_46,NA,nipping,behavior
+A. hubberi,character_46,NA,nipping,behavior
+P. coompressa,character_46,NA,nipping,behavior
+P. intermedia,character_46,NA,nipping,behavior
+P. olmaceae,character_46,NA,nipping,behavior
+X. alvarezi,character_46,1,nipping,behavior
+X. andersi,character_46,1,nipping,behavior
+X. birchmanni,character_46,1,nipping,behavior
+X. clemenciae,character_46,1,nipping,behavior
+X. continens,character_46,NA,nipping,behavior
+X. cortezi,character_46,1,nipping,behavior
+X. couchianus,character_46,1,nipping,behavior
+X. evelynae,character_46,1,nipping,behavior
+X. gordoni,character_46,1,nipping,behavior
+X. helleri,character_46,1,nipping,behavior
+X. maculatus,character_46,1,nipping,behavior
+X. malinche,character_46,NA,nipping,behavior
+X. meyeri,character_46,1,nipping,behavior
+X. milleri,character_46,1,nipping,behavior
+X. montezumae,character_46,1,nipping,behavior
+X. multilineatus,character_46,NA,nipping,behavior
+X. nezahualcqyotl,character_46,1,nipping,behavior
+X. nigrensis,character_46,1,nipping,behavior
+X. pygmaeus,character_46,1,nipping,behavior
+X. signum,character_46,1,nipping,behavior
+X. variatus,character_46,1,nipping,behavior
+X. xiphidium,character_46,1,nipping,behavior
+P. reticulata,character_47,NA,gonopodial thrusting,behavior
+P. butleri,character_47,NA,gonopodial thrusting,behavior
+A. hubberi,character_47,NA,gonopodial thrusting,behavior
+P. coompressa,character_47,NA,gonopodial thrusting,behavior
+P. intermedia,character_47,NA,gonopodial thrusting,behavior
+P. olmaceae,character_47,NA,gonopodial thrusting,behavior
+X. alvarezi,character_47,1,gonopodial thrusting,behavior
+X. andersi,character_47,1,gonopodial thrusting,behavior
+X. birchmanni,character_47,1,gonopodial thrusting,behavior
+X. clemenciae,character_47,1,gonopodial thrusting,behavior
+X. continens,character_47,NA,gonopodial thrusting,behavior
+X. cortezi,character_47,1,gonopodial thrusting,behavior
+X. couchianus,character_47,1,gonopodial thrusting,behavior
+X. evelynae,character_47,1,gonopodial thrusting,behavior
+X. gordoni,character_47,1,gonopodial thrusting,behavior
+X. helleri,character_47,1,gonopodial thrusting,behavior
+X. maculatus,character_47,1,gonopodial thrusting,behavior
+X. malinche,character_47,NA,gonopodial thrusting,behavior
+X. meyeri,character_47,1,gonopodial thrusting,behavior
+X. milleri,character_47,1,gonopodial thrusting,behavior
+X. montezumae,character_47,1,gonopodial thrusting,behavior
+X. multilineatus,character_47,NA,gonopodial thrusting,behavior
+X. nezahualcqyotl,character_47,1,gonopodial thrusting,behavior
+X. nigrensis,character_47,1,gonopodial thrusting,behavior
+X. pygmaeus,character_47,1,gonopodial thrusting,behavior
+X. signum,character_47,1,gonopodial thrusting,behavior
+X. variatus,character_47,1,gonopodial thrusting,behavior
+X. xiphidium,character_47,1,gonopodial thrusting,behavior
+P. reticulata,character_48,NA,slow_approach,behavior
+P. butleri,character_48,NA,slow_approach,behavior
+A. hubberi,character_48,NA,slow_approach,behavior
+P. coompressa,character_48,NA,slow_approach,behavior
+P. intermedia,character_48,NA,slow_approach,behavior
+P. olmaceae,character_48,NA,slow_approach,behavior
+X. alvarezi,character_48,1,slow_approach,behavior
+X. andersi,character_48,1,slow_approach,behavior
+X. birchmanni,character_48,1,slow_approach,behavior
+X. clemenciae,character_48,1,slow_approach,behavior
+X. continens,character_48,NA,slow_approach,behavior
+X. cortezi,character_48,1,slow_approach,behavior
+X. couchianus,character_48,1,slow_approach,behavior
+X. evelynae,character_48,1,slow_approach,behavior
+X. gordoni,character_48,1,slow_approach,behavior
+X. helleri,character_48,1,slow_approach,behavior
+X. maculatus,character_48,1,slow_approach,behavior
+X. malinche,character_48,NA,slow_approach,behavior
+X. meyeri,character_48,1,slow_approach,behavior
+X. milleri,character_48,1,slow_approach,behavior
+X. montezumae,character_48,1,slow_approach,behavior
+X. multilineatus,character_48,NA,slow_approach,behavior
+X. nezahualcqyotl,character_48,1,slow_approach,behavior
+X. nigrensis,character_48,1,slow_approach,behavior
+X. pygmaeus,character_48,1,slow_approach,behavior
+X. signum,character_48,1,slow_approach,behavior
+X. variatus,character_48,1,slow_approach,behavior
+X. xiphidium,character_48,1,slow_approach,behavior
+P. reticulata,character_49,NA,sneaking,behavior
+P. butleri,character_49,NA,sneaking,behavior
+A. hubberi,character_49,NA,sneaking,behavior
+P. coompressa,character_49,NA,sneaking,behavior
+P. intermedia,character_49,NA,sneaking,behavior
+P. olmaceae,character_49,NA,sneaking,behavior
+X. alvarezi,character_49,1,sneaking,behavior
+X. andersi,character_49,1,sneaking,behavior
+X. birchmanni,character_49,1,sneaking,behavior
+X. clemenciae,character_49,1,sneaking,behavior
+X. continens,character_49,NA,sneaking,behavior
+X. cortezi,character_49,1,sneaking,behavior
+X. couchianus,character_49,1,sneaking,behavior
+X. evelynae,character_49,1,sneaking,behavior
+X. gordoni,character_49,1,sneaking,behavior
+X. helleri,character_49,1,sneaking,behavior
+X. maculatus,character_49,1,sneaking,behavior
+X. malinche,character_49,NA,sneaking,behavior
+X. meyeri,character_49,1,sneaking,behavior
+X. milleri,character_49,1,sneaking,behavior
+X. montezumae,character_49,1,sneaking,behavior
+X. multilineatus,character_49,NA,sneaking,behavior
+X. nezahualcqyotl,character_49,1,sneaking,behavior
+X. nigrensis,character_49,1,sneaking,behavior
+X. pygmaeus,character_49,1,sneaking,behavior
+X. signum,character_49,1,sneaking,behavior
+X. variatus,character_49,1,sneaking,behavior
+X. xiphidium,character_49,1,sneaking,behavior
+P. reticulata,character_50,NA,close transverse presenting behavior,behavior
+P. butleri,character_50,NA,close transverse presenting behavior,behavior
+A. hubberi,character_50,NA,close transverse presenting behavior,behavior
+P. coompressa,character_50,NA,close transverse presenting behavior,behavior
+P. intermedia,character_50,NA,close transverse presenting behavior,behavior
+P. olmaceae,character_50,NA,close transverse presenting behavior,behavior
+X. alvarezi,character_50,1,close transverse presenting behavior,behavior
+X. andersi,character_50,1,close transverse presenting behavior,behavior
+X. birchmanni,character_50,1,close transverse presenting behavior,behavior
+X. clemenciae,character_50,1,close transverse presenting behavior,behavior
+X. continens,character_50,NA,close transverse presenting behavior,behavior
+X. cortezi,character_50,1,close transverse presenting behavior,behavior
+X. couchianus,character_50,1,close transverse presenting behavior,behavior
+X. evelynae,character_50,1,close transverse presenting behavior,behavior
+X. gordoni,character_50,1,close transverse presenting behavior,behavior
+X. helleri,character_50,1,close transverse presenting behavior,behavior
+X. maculatus,character_50,0,close transverse presenting behavior,behavior
+X. malinche,character_50,NA,close transverse presenting behavior,behavior
+X. meyeri,character_50,1,close transverse presenting behavior,behavior
+X. milleri,character_50,1,close transverse presenting behavior,behavior
+X. montezumae,character_50,1,close transverse presenting behavior,behavior
+X. multilineatus,character_50,NA,close transverse presenting behavior,behavior
+X. nezahualcqyotl,character_50,1,close transverse presenting behavior,behavior
+X. nigrensis,character_50,1,close transverse presenting behavior,behavior
+X. pygmaeus,character_50,1,close transverse presenting behavior,behavior
+X. signum,character_50,1,close transverse presenting behavior,behavior
+X. variatus,character_50,1,close transverse presenting behavior,behavior
+X. xiphidium,character_50,1,close transverse presenting behavior,behavior
+P. reticulata,character_51,NA,side_change_over_head,behavior
+P. butleri,character_51,NA,side_change_over_head,behavior
+A. hubberi,character_51,NA,side_change_over_head,behavior
+P. coompressa,character_51,NA,side_change_over_head,behavior
+P. intermedia,character_51,NA,side_change_over_head,behavior
+P. olmaceae,character_51,NA,side_change_over_head,behavior
+X. alvarezi,character_51,0,side_change_over_head,behavior
+X. andersi,character_51,0,side_change_over_head,behavior
+X. birchmanni,character_51,0,side_change_over_head,behavior
+X. clemenciae,character_51,0,side_change_over_head,behavior
+X. continens,character_51,NA,side_change_over_head,behavior
+X. cortezi,character_51,0,side_change_over_head,behavior
+X. couchianus,character_51,1,side_change_over_head,behavior
+X. evelynae,character_51,1,side_change_over_head,behavior
+X. gordoni,character_51,1,side_change_over_head,behavior
+X. helleri,character_51,0,side_change_over_head,behavior
+X. maculatus,character_51,0,side_change_over_head,behavior
+X. malinche,character_51,NA,side_change_over_head,behavior
+X. meyeri,character_51,1,side_change_over_head,behavior
+X. milleri,character_51,1,side_change_over_head,behavior
+X. montezumae,character_51,0,side_change_over_head,behavior
+X. multilineatus,character_51,NA,side_change_over_head,behavior
+X. nezahualcqyotl,character_51,0,side_change_over_head,behavior
+X. nigrensis,character_51,0,side_change_over_head,behavior
+X. pygmaeus,character_51,0,side_change_over_head,behavior
+X. signum,character_51,0,side_change_over_head,behavior
+X. variatus,character_51,1,side_change_over_head,behavior
+X. xiphidium,character_51,0,side_change_over_head,behavior
+P. reticulata,character_52,NA,stiff_frontal_presenting,behavior
+P. butleri,character_52,NA,stiff_frontal_presenting,behavior
+A. hubberi,character_52,NA,stiff_frontal_presenting,behavior
+P. coompressa,character_52,NA,stiff_frontal_presenting,behavior
+P. intermedia,character_52,NA,stiff_frontal_presenting,behavior
+P. olmaceae,character_52,NA,stiff_frontal_presenting,behavior
+X. alvarezi,character_52,0,stiff_frontal_presenting,behavior
+X. andersi,character_52,1,stiff_frontal_presenting,behavior
+X. birchmanni,character_52,0,stiff_frontal_presenting,behavior
+X. clemenciae,character_52,0,stiff_frontal_presenting,behavior
+X. continens,character_52,NA,stiff_frontal_presenting,behavior
+X. cortezi,character_52,0,stiff_frontal_presenting,behavior
+X. couchianus,character_52,0,stiff_frontal_presenting,behavior
+X. evelynae,character_52,0,stiff_frontal_presenting,behavior
+X. gordoni,character_52,0,stiff_frontal_presenting,behavior
+X. helleri,character_52,0,stiff_frontal_presenting,behavior
+X. maculatus,character_52,0,stiff_frontal_presenting,behavior
+X. malinche,character_52,NA,stiff_frontal_presenting,behavior
+X. meyeri,character_52,0,stiff_frontal_presenting,behavior
+X. milleri,character_52,0,stiff_frontal_presenting,behavior
+X. montezumae,character_52,0,stiff_frontal_presenting,behavior
+X. multilineatus,character_52,NA,stiff_frontal_presenting,behavior
+X. nezahualcqyotl,character_52,0,stiff_frontal_presenting,behavior
+X. nigrensis,character_52,0,stiff_frontal_presenting,behavior
+X. pygmaeus,character_52,0,stiff_frontal_presenting,behavior
+X. signum,character_52,0,stiff_frontal_presenting,behavior
+X. variatus,character_52,0,stiff_frontal_presenting,behavior
+X. xiphidium,character_52,1,stiff_frontal_presenting,behavior
+P. reticulata,character_53,NA,circling,behavior
+P. butleri,character_53,NA,circling,behavior
+A. hubberi,character_53,NA,circling,behavior
+P. coompressa,character_53,NA,circling,behavior
+P. intermedia,character_53,NA,circling,behavior
+P. olmaceae,character_53,NA,circling,behavior
+X. alvarezi,character_53,0,circling,behavior
+X. andersi,character_53,0,circling,behavior
+X. birchmanni,character_53,1,circling,behavior
+X. clemenciae,character_53,0,circling,behavior
+X. continens,character_53,NA,circling,behavior
+X. cortezi,character_53,1,circling,behavior
+X. couchianus,character_53,0,circling,behavior
+X. evelynae,character_53,0,circling,behavior
+X. gordoni,character_53,0,circling,behavior
+X. helleri,character_53,1,circling,behavior
+X. maculatus,character_53,0,circling,behavior
+X. malinche,character_53,NA,circling,behavior
+X. meyeri,character_53,0,circling,behavior
+X. milleri,character_53,0,circling,behavior
+X. montezumae,character_53,1,circling,behavior
+X. multilineatus,character_53,NA,circling,behavior
+X. nezahualcqyotl,character_53,1,circling,behavior
+X. nigrensis,character_53,1,circling,behavior
+X. pygmaeus,character_53,1,circling,behavior
+X. signum,character_53,1,circling,behavior
+X. variatus,character_53,0,circling,behavior
+X. xiphidium,character_53,0,circling,behavior
+P. reticulata,character_54,NA,figure_eight,behavior
+P. butleri,character_54,NA,figure_eight,behavior
+A. hubberi,character_54,NA,figure_eight,behavior
+P. coompressa,character_54,NA,figure_eight,behavior
+P. intermedia,character_54,NA,figure_eight,behavior
+P. olmaceae,character_54,NA,figure_eight,behavior
+X. alvarezi,character_54,0,figure_eight,behavior
+X. andersi,character_54,0,figure_eight,behavior
+X. birchmanni,character_54,1,figure_eight,behavior
+X. clemenciae,character_54,0,figure_eight,behavior
+X. continens,character_54,NA,figure_eight,behavior
+X. cortezi,character_54,0,figure_eight,behavior
+X. couchianus,character_54,0,figure_eight,behavior
+X. evelynae,character_54,0,figure_eight,behavior
+X. gordoni,character_54,0,figure_eight,behavior
+X. helleri,character_54,0,figure_eight,behavior
+X. maculatus,character_54,0,figure_eight,behavior
+X. malinche,character_54,NA,figure_eight,behavior
+X. meyeri,character_54,0,figure_eight,behavior
+X. milleri,character_54,0,figure_eight,behavior
+X. montezumae,character_54,1,figure_eight,behavior
+X. multilineatus,character_54,NA,figure_eight,behavior
+X. nezahualcqyotl,character_54,1,figure_eight,behavior
+X. nigrensis,character_54,1,figure_eight,behavior
+X. pygmaeus,character_54,0,figure_eight,behavior
+X. signum,character_54,0,figure_eight,behavior
+X. variatus,character_54,0,figure_eight,behavior
+X. xiphidium,character_54,0,figure_eight,behavior
+P. reticulata,character_55,NA,open_display,behavior
+P. butleri,character_55,NA,open_display,behavior
+A. hubberi,character_55,NA,open_display,behavior
+P. coompressa,character_55,NA,open_display,behavior
+P. intermedia,character_55,NA,open_display,behavior
+P. olmaceae,character_55,NA,open_display,behavior
+X. alvarezi,character_55,0,open_display,behavior
+X. andersi,character_55,0,open_display,behavior
+X. birchmanni,character_55,1,open_display,behavior
+X. clemenciae,character_55,0,open_display,behavior
+X. continens,character_55,NA,open_display,behavior
+X. cortezi,character_55,1,open_display,behavior
+X. couchianus,character_55,0,open_display,behavior
+X. evelynae,character_55,0,open_display,behavior
+X. gordoni,character_55,0,open_display,behavior
+X. helleri,character_55,0,open_display,behavior
+X. maculatus,character_55,0,open_display,behavior
+X. malinche,character_55,NA,open_display,behavior
+X. meyeri,character_55,0,open_display,behavior
+X. milleri,character_55,0,open_display,behavior
+X. montezumae,character_55,1,open_display,behavior
+X. multilineatus,character_55,NA,open_display,behavior
+X. nezahualcqyotl,character_55,1,open_display,behavior
+X. nigrensis,character_55,0,open_display,behavior
+X. pygmaeus,character_55,0,open_display,behavior
+X. signum,character_55,0,open_display,behavior
+X. variatus,character_55,0,open_display,behavior
+X. xiphidium,character_55,0,open_display,behavior
+P. reticulata,character_56,NA,arching_display,behavior
+P. butleri,character_56,NA,arching_display,behavior
+A. hubberi,character_56,NA,arching_display,behavior
+P. coompressa,character_56,NA,arching_display,behavior
+P. intermedia,character_56,NA,arching_display,behavior
+P. olmaceae,character_56,NA,arching_display,behavior
+X. alvarezi,character_56,1,arching_display,behavior
+X. andersi,character_56,0,arching_display,behavior
+X. birchmanni,character_56,0,arching_display,behavior
+X. clemenciae,character_56,1,arching_display,behavior
+X. continens,character_56,NA,arching_display,behavior
+X. cortezi,character_56,0,arching_display,behavior
+X. couchianus,character_56,0,arching_display,behavior
+X. evelynae,character_56,0,arching_display,behavior
+X. gordoni,character_56,0,arching_display,behavior
+X. helleri,character_56,1,arching_display,behavior
+X. maculatus,character_56,0,arching_display,behavior
+X. malinche,character_56,NA,arching_display,behavior
+X. meyeri,character_56,0,arching_display,behavior
+X. milleri,character_56,0,arching_display,behavior
+X. montezumae,character_56,0,arching_display,behavior
+X. multilineatus,character_56,NA,arching_display,behavior
+X. nezahualcqyotl,character_56,0,arching_display,behavior
+X. nigrensis,character_56,0,arching_display,behavior
+X. pygmaeus,character_56,0,arching_display,behavior
+X. signum,character_56,1,arching_display,behavior
+X. variatus,character_56,0,arching_display,behavior
+X. xiphidium,character_56,0,arching_display,behavior
+P. reticulata,character_57,NA,dancing_display,behavior
+P. butleri,character_57,NA,dancing_display,behavior
+A. hubberi,character_57,NA,dancing_display,behavior
+P. coompressa,character_57,NA,dancing_display,behavior
+P. intermedia,character_57,NA,dancing_display,behavior
+P. olmaceae,character_57,NA,dancing_display,behavior
+X. alvarezi,character_57,0,dancing_display,behavior
+X. andersi,character_57,0,dancing_display,behavior
+X. birchmanni,character_57,0,dancing_display,behavior
+X. clemenciae,character_57,0,dancing_display,behavior
+X. continens,character_57,NA,dancing_display,behavior
+X. cortezi,character_57,0,dancing_display,behavior
+X. couchianus,character_57,0,dancing_display,behavior
+X. evelynae,character_57,0,dancing_display,behavior
+X. gordoni,character_57,0,dancing_display,behavior
+X. helleri,character_57,1,dancing_display,behavior
+X. maculatus,character_57,0,dancing_display,behavior
+X. malinche,character_57,NA,dancing_display,behavior
+X. meyeri,character_57,0,dancing_display,behavior
+X. milleri,character_57,0,dancing_display,behavior
+X. montezumae,character_57,0,dancing_display,behavior
+X. multilineatus,character_57,NA,dancing_display,behavior
+X. nezahualcqyotl,character_57,0,dancing_display,behavior
+X. nigrensis,character_57,0,dancing_display,behavior
+X. pygmaeus,character_57,0,dancing_display,behavior
+X. signum,character_57,1,dancing_display,behavior
+X. variatus,character_57,0,dancing_display,behavior
+X. xiphidium,character_57,0,dancing_display,behavior
+P. reticulata,character_58,NA,RADP_1,RADP_characters
+P. butleri,character_58,NA,RADP_1,RADP_characters
+A. hubberi,character_58,NA,RADP_1,RADP_characters
+P. coompressa,character_58,NA,RADP_1,RADP_characters
+P. intermedia,character_58,NA,RADP_1,RADP_characters
+P. olmaceae,character_58,NA,RADP_1,RADP_characters
+X. alvarezi,character_58,NA,RADP_1,RADP_characters
+X. andersi,character_58,NA,RADP_1,RADP_characters
+X. birchmanni,character_58,1,RADP_1,RADP_characters
+X. clemenciae,character_58,1,RADP_1,RADP_characters
+X. continens,character_58,NA,RADP_1,RADP_characters
+X. cortezi,character_58,1,RADP_1,RADP_characters
+X. couchianus,character_58,NA,RADP_1,RADP_characters
+X. evelynae,character_58,NA,RADP_1,RADP_characters
+X. gordoni,character_58,NA,RADP_1,RADP_characters
+X. helleri,character_58,0,RADP_1,RADP_characters
+X. maculatus,character_58,0,RADP_1,RADP_characters
+X. malinche,character_58,1,RADP_1,RADP_characters
+X. meyeri,character_58,NA,RADP_1,RADP_characters
+X. milleri,character_58,NA,RADP_1,RADP_characters
+X. montezumae,character_58,1,RADP_1,RADP_characters
+X. multilineatus,character_58,NA,RADP_1,RADP_characters
+X. nezahualcqyotl,character_58,1,RADP_1,RADP_characters
+X. nigrensis,character_58,1,RADP_1,RADP_characters
+X. pygmaeus,character_58,1,RADP_1,RADP_characters
+X. signum,character_58,NA,RADP_1,RADP_characters
+X. variatus,character_58,0,RADP_1,RADP_characters
+X. xiphidium,character_58,0,RADP_1,RADP_characters
+P. reticulata,character_59,NA,RADP_2,RADP_characters
+P. butleri,character_59,NA,RADP_2,RADP_characters
+A. hubberi,character_59,NA,RADP_2,RADP_characters
+P. coompressa,character_59,NA,RADP_2,RADP_characters
+P. intermedia,character_59,NA,RADP_2,RADP_characters
+P. olmaceae,character_59,NA,RADP_2,RADP_characters
+X. alvarezi,character_59,NA,RADP_2,RADP_characters
+X. andersi,character_59,NA,RADP_2,RADP_characters
+X. birchmanni,character_59,1,RADP_2,RADP_characters
+X. clemenciae,character_59,0,RADP_2,RADP_characters
+X. continens,character_59,1,RADP_2,RADP_characters
+X. cortezi,character_59,1,RADP_2,RADP_characters
+X. couchianus,character_59,NA,RADP_2,RADP_characters
+X. evelynae,character_59,NA,RADP_2,RADP_characters
+X. gordoni,character_59,NA,RADP_2,RADP_characters
+X. helleri,character_59,1,RADP_2,RADP_characters
+X. maculatus,character_59,1,RADP_2,RADP_characters
+X. malinche,character_59,1,RADP_2,RADP_characters
+X. meyeri,character_59,NA,RADP_2,RADP_characters
+X. milleri,character_59,NA,RADP_2,RADP_characters
+X. montezumae,character_59,1,RADP_2,RADP_characters
+X. multilineatus,character_59,0,RADP_2,RADP_characters
+X. nezahualcqyotl,character_59,1,RADP_2,RADP_characters
+X. nigrensis,character_59,0,RADP_2,RADP_characters
+X. pygmaeus,character_59,0,RADP_2,RADP_characters
+X. signum,character_59,NA,RADP_2,RADP_characters
+X. variatus,character_59,0,RADP_2,RADP_characters
+X. xiphidium,character_59,0,RADP_2,RADP_characters
+P. reticulata,character_60,NA,RADP_3,RADP_characters
+P. butleri,character_60,NA,RADP_3,RADP_characters
+A. hubberi,character_60,NA,RADP_3,RADP_characters
+P. coompressa,character_60,NA,RADP_3,RADP_characters
+P. intermedia,character_60,NA,RADP_3,RADP_characters
+P. olmaceae,character_60,NA,RADP_3,RADP_characters
+X. alvarezi,character_60,NA,RADP_3,RADP_characters
+X. andersi,character_60,NA,RADP_3,RADP_characters
+X. birchmanni,character_60,9,RADP_3,RADP_characters
+X. clemenciae,character_60,1,RADP_3,RADP_characters
+X. continens,character_60,0,RADP_3,RADP_characters
+X. cortezi,character_60,1,RADP_3,RADP_characters
+X. couchianus,character_60,NA,RADP_3,RADP_characters
+X. evelynae,character_60,NA,RADP_3,RADP_characters
+X. gordoni,character_60,NA,RADP_3,RADP_characters
+X. helleri,character_60,1,RADP_3,RADP_characters
+X. maculatus,character_60,0,RADP_3,RADP_characters
+X. malinche,character_60,P,RADP_3,RADP_characters
+X. meyeri,character_60,NA,RADP_3,RADP_characters
+X. milleri,character_60,NA,RADP_3,RADP_characters
+X. montezumae,character_60,0,RADP_3,RADP_characters
+X. multilineatus,character_60,0,RADP_3,RADP_characters
+X. nezahualcqyotl,character_60,1,RADP_3,RADP_characters
+X. nigrensis,character_60,NA,RADP_3,RADP_characters
+X. pygmaeus,character_60,0,RADP_3,RADP_characters
+X. signum,character_60,NA,RADP_3,RADP_characters
+X. variatus,character_60,P,RADP_3,RADP_characters
+X. xiphidium,character_60,1,RADP_3,RADP_characters
+P. reticulata,character_61,NA,RADP_4,RADP_characters
+P. butleri,character_61,NA,RADP_4,RADP_characters
+A. hubberi,character_61,NA,RADP_4,RADP_characters
+P. coompressa,character_61,NA,RADP_4,RADP_characters
+P. intermedia,character_61,NA,RADP_4,RADP_characters
+P. olmaceae,character_61,NA,RADP_4,RADP_characters
+X. alvarezi,character_61,NA,RADP_4,RADP_characters
+X. andersi,character_61,NA,RADP_4,RADP_characters
+X. birchmanni,character_61,1,RADP_4,RADP_characters
+X. clemenciae,character_61,1,RADP_4,RADP_characters
+X. continens,character_61,0,RADP_4,RADP_characters
+X. cortezi,character_61,0,RADP_4,RADP_characters
+X. couchianus,character_61,NA,RADP_4,RADP_characters
+X. evelynae,character_61,NA,RADP_4,RADP_characters
+X. gordoni,character_61,NA,RADP_4,RADP_characters
+X. helleri,character_61,1,RADP_4,RADP_characters
+X. maculatus,character_61,1,RADP_4,RADP_characters
+X. malinche,character_61,1,RADP_4,RADP_characters
+X. meyeri,character_61,NA,RADP_4,RADP_characters
+X. milleri,character_61,NA,RADP_4,RADP_characters
+X. montezumae,character_61,1,RADP_4,RADP_characters
+X. multilineatus,character_61,0,RADP_4,RADP_characters
+X. nezahualcqyotl,character_61,1,RADP_4,RADP_characters
+X. nigrensis,character_61,1,RADP_4,RADP_characters
+X. pygmaeus,character_61,0,RADP_4,RADP_characters
+X. signum,character_61,NA,RADP_4,RADP_characters
+X. variatus,character_61,P,RADP_4,RADP_characters
+X. xiphidium,character_61,1,RADP_4,RADP_characters
+P. reticulata,character_62,NA,RADP_5,RADP_characters
+P. butleri,character_62,NA,RADP_5,RADP_characters
+A. hubberi,character_62,NA,RADP_5,RADP_characters
+P. coompressa,character_62,NA,RADP_5,RADP_characters
+P. intermedia,character_62,NA,RADP_5,RADP_characters
+P. olmaceae,character_62,NA,RADP_5,RADP_characters
+X. alvarezi,character_62,NA,RADP_5,RADP_characters
+X. andersi,character_62,NA,RADP_5,RADP_characters
+X. birchmanni,character_62,1,RADP_5,RADP_characters
+X. clemenciae,character_62,0,RADP_5,RADP_characters
+X. continens,character_62,1,RADP_5,RADP_characters
+X. cortezi,character_62,0,RADP_5,RADP_characters
+X. couchianus,character_62,NA,RADP_5,RADP_characters
+X. evelynae,character_62,NA,RADP_5,RADP_characters
+X. gordoni,character_62,NA,RADP_5,RADP_characters
+X. helleri,character_62,0,RADP_5,RADP_characters
+X. maculatus,character_62,1,RADP_5,RADP_characters
+X. malinche,character_62,1,RADP_5,RADP_characters
+X. meyeri,character_62,NA,RADP_5,RADP_characters
+X. milleri,character_62,NA,RADP_5,RADP_characters
+X. montezumae,character_62,1,RADP_5,RADP_characters
+X. multilineatus,character_62,0,RADP_5,RADP_characters
+X. nezahualcqyotl,character_62,1,RADP_5,RADP_characters
+X. nigrensis,character_62,0,RADP_5,RADP_characters
+X. pygmaeus,character_62,0,RADP_5,RADP_characters
+X. signum,character_62,NA,RADP_5,RADP_characters
+X. variatus,character_62,1,RADP_5,RADP_characters
+X. xiphidium,character_62,0,RADP_5,RADP_characters
+P. reticulata,character_63,NA,RADP_6,RADP_characters
+P. butleri,character_63,NA,RADP_6,RADP_characters
+A. hubberi,character_63,NA,RADP_6,RADP_characters
+P. coompressa,character_63,NA,RADP_6,RADP_characters
+P. intermedia,character_63,NA,RADP_6,RADP_characters
+P. olmaceae,character_63,NA,RADP_6,RADP_characters
+X. alvarezi,character_63,NA,RADP_6,RADP_characters
+X. andersi,character_63,NA,RADP_6,RADP_characters
+X. birchmanni,character_63,0,RADP_6,RADP_characters
+X. clemenciae,character_63,0,RADP_6,RADP_characters
+X. continens,character_63,NA,RADP_6,RADP_characters
+X. cortezi,character_63,1,RADP_6,RADP_characters
+X. couchianus,character_63,NA,RADP_6,RADP_characters
+X. evelynae,character_63,NA,RADP_6,RADP_characters
+X. gordoni,character_63,NA,RADP_6,RADP_characters
+X. helleri,character_63,0,RADP_6,RADP_characters
+X. maculatus,character_63,0,RADP_6,RADP_characters
+X. malinche,character_63,0,RADP_6,RADP_characters
+X. meyeri,character_63,NA,RADP_6,RADP_characters
+X. milleri,character_63,NA,RADP_6,RADP_characters
+X. montezumae,character_63,1,RADP_6,RADP_characters
+X. multilineatus,character_63,0,RADP_6,RADP_characters
+X. nezahualcqyotl,character_63,0,RADP_6,RADP_characters
+X. nigrensis,character_63,0,RADP_6,RADP_characters
+X. pygmaeus,character_63,0,RADP_6,RADP_characters
+X. signum,character_63,NA,RADP_6,RADP_characters
+X. variatus,character_63,0,RADP_6,RADP_characters
+X. xiphidium,character_63,NA,RADP_6,RADP_characters
+P. reticulata,character_64,NA,RADP_7,RADP_characters
+P. butleri,character_64,NA,RADP_7,RADP_characters
+A. hubberi,character_64,NA,RADP_7,RADP_characters
+P. coompressa,character_64,NA,RADP_7,RADP_characters
+P. intermedia,character_64,NA,RADP_7,RADP_characters
+P. olmaceae,character_64,NA,RADP_7,RADP_characters
+X. alvarezi,character_64,NA,RADP_7,RADP_characters
+X. andersi,character_64,NA,RADP_7,RADP_characters
+X. birchmanni,character_64,1,RADP_7,RADP_characters
+X. clemenciae,character_64,0,RADP_7,RADP_characters
+X. continens,character_64,NA,RADP_7,RADP_characters
+X. cortezi,character_64,1,RADP_7,RADP_characters
+X. couchianus,character_64,NA,RADP_7,RADP_characters
+X. evelynae,character_64,NA,RADP_7,RADP_characters
+X. gordoni,character_64,NA,RADP_7,RADP_characters
+X. helleri,character_64,0,RADP_7,RADP_characters
+X. maculatus,character_64,1,RADP_7,RADP_characters
+X. malinche,character_64,P,RADP_7,RADP_characters
+X. meyeri,character_64,NA,RADP_7,RADP_characters
+X. milleri,character_64,NA,RADP_7,RADP_characters
+X. montezumae,character_64,1,RADP_7,RADP_characters
+X. multilineatus,character_64,1,RADP_7,RADP_characters
+X. nezahualcqyotl,character_64,1,RADP_7,RADP_characters
+X. nigrensis,character_64,1,RADP_7,RADP_characters
+X. pygmaeus,character_64,1,RADP_7,RADP_characters
+X. signum,character_64,NA,RADP_7,RADP_characters
+X. variatus,character_64,0,RADP_7,RADP_characters
+X. xiphidium,character_64,0,RADP_7,RADP_characters
+P. reticulata,character_65,NA,RADP_8,RADP_characters
+P. butleri,character_65,NA,RADP_8,RADP_characters
+A. hubberi,character_65,NA,RADP_8,RADP_characters
+P. coompressa,character_65,NA,RADP_8,RADP_characters
+P. intermedia,character_65,NA,RADP_8,RADP_characters
+P. olmaceae,character_65,NA,RADP_8,RADP_characters
+X. alvarezi,character_65,NA,RADP_8,RADP_characters
+X. andersi,character_65,NA,RADP_8,RADP_characters
+X. birchmanni,character_65,0,RADP_8,RADP_characters
+X. clemenciae,character_65,0,RADP_8,RADP_characters
+X. continens,character_65,0,RADP_8,RADP_characters
+X. cortezi,character_65,0,RADP_8,RADP_characters
+X. couchianus,character_65,NA,RADP_8,RADP_characters
+X. evelynae,character_65,NA,RADP_8,RADP_characters
+X. gordoni,character_65,NA,RADP_8,RADP_characters
+X. helleri,character_65,1,RADP_8,RADP_characters
+X. maculatus,character_65,1,RADP_8,RADP_characters
+X. malinche,character_65,0,RADP_8,RADP_characters
+X. meyeri,character_65,NA,RADP_8,RADP_characters
+X. milleri,character_65,NA,RADP_8,RADP_characters
+X. montezumae,character_65,0,RADP_8,RADP_characters
+X. multilineatus,character_65,0,RADP_8,RADP_characters
+X. nezahualcqyotl,character_65,0,RADP_8,RADP_characters
+X. nigrensis,character_65,0,RADP_8,RADP_characters
+X. pygmaeus,character_65,0,RADP_8,RADP_characters
+X. signum,character_65,NA,RADP_8,RADP_characters
+X. variatus,character_65,0,RADP_8,RADP_characters
+X. xiphidium,character_65,0,RADP_8,RADP_characters
+P. reticulata,character_66,NA,RADP_9,RADP_characters
+P. butleri,character_66,NA,RADP_9,RADP_characters
+A. hubberi,character_66,NA,RADP_9,RADP_characters
+P. coompressa,character_66,NA,RADP_9,RADP_characters
+P. intermedia,character_66,NA,RADP_9,RADP_characters
+P. olmaceae,character_66,NA,RADP_9,RADP_characters
+X. alvarezi,character_66,NA,RADP_9,RADP_characters
+X. andersi,character_66,NA,RADP_9,RADP_characters
+X. birchmanni,character_66,1,RADP_9,RADP_characters
+X. clemenciae,character_66,0,RADP_9,RADP_characters
+X. continens,character_66,1,RADP_9,RADP_characters
+X. cortezi,character_66,1,RADP_9,RADP_characters
+X. couchianus,character_66,NA,RADP_9,RADP_characters
+X. evelynae,character_66,NA,RADP_9,RADP_characters
+X. gordoni,character_66,NA,RADP_9,RADP_characters
+X. helleri,character_66,0,RADP_9,RADP_characters
+X. maculatus,character_66,1,RADP_9,RADP_characters
+X. malinche,character_66,1,RADP_9,RADP_characters
+X. meyeri,character_66,NA,RADP_9,RADP_characters
+X. milleri,character_66,NA,RADP_9,RADP_characters
+X. montezumae,character_66,1,RADP_9,RADP_characters
+X. multilineatus,character_66,1,RADP_9,RADP_characters
+X. nezahualcqyotl,character_66,1,RADP_9,RADP_characters
+X. nigrensis,character_66,1,RADP_9,RADP_characters
+X. pygmaeus,character_66,1,RADP_9,RADP_characters
+X. signum,character_66,NA,RADP_9,RADP_characters
+X. variatus,character_66,P,RADP_9,RADP_characters
+X. xiphidium,character_66,0,RADP_9,RADP_characters
+P. reticulata,character_67,NA,RADP_10,RADP_characters
+P. butleri,character_67,NA,RADP_10,RADP_characters
+A. hubberi,character_67,NA,RADP_10,RADP_characters
+P. coompressa,character_67,NA,RADP_10,RADP_characters
+P. intermedia,character_67,NA,RADP_10,RADP_characters
+P. olmaceae,character_67,NA,RADP_10,RADP_characters
+X. alvarezi,character_67,NA,RADP_10,RADP_characters
+X. andersi,character_67,NA,RADP_10,RADP_characters
+X. birchmanni,character_67,1,RADP_10,RADP_characters
+X. clemenciae,character_67,0,RADP_10,RADP_characters
+X. continens,character_67,1,RADP_10,RADP_characters
+X. cortezi,character_67,1,RADP_10,RADP_characters
+X. couchianus,character_67,NA,RADP_10,RADP_characters
+X. evelynae,character_67,NA,RADP_10,RADP_characters
+X. gordoni,character_67,NA,RADP_10,RADP_characters
+X. helleri,character_67,0,RADP_10,RADP_characters
+X. maculatus,character_67,0,RADP_10,RADP_characters
+X. malinche,character_67,P,RADP_10,RADP_characters
+X. meyeri,character_67,NA,RADP_10,RADP_characters
+X. milleri,character_67,NA,RADP_10,RADP_characters
+X. montezumae,character_67,1,RADP_10,RADP_characters
+X. multilineatus,character_67,1,RADP_10,RADP_characters
+X. nezahualcqyotl,character_67,0,RADP_10,RADP_characters
+X. nigrensis,character_67,1,RADP_10,RADP_characters
+X. pygmaeus,character_67,1,RADP_10,RADP_characters
+X. signum,character_67,NA,RADP_10,RADP_characters
+X. variatus,character_67,1,RADP_10,RADP_characters
+X. xiphidium,character_67,0,RADP_10,RADP_characters
+P. reticulata,character_68,NA,RADP_11,RADP_characters
+P. butleri,character_68,NA,RADP_11,RADP_characters
+A. hubberi,character_68,NA,RADP_11,RADP_characters
+P. coompressa,character_68,NA,RADP_11,RADP_characters
+P. intermedia,character_68,NA,RADP_11,RADP_characters
+P. olmaceae,character_68,NA,RADP_11,RADP_characters
+X. alvarezi,character_68,NA,RADP_11,RADP_characters
+X. andersi,character_68,NA,RADP_11,RADP_characters
+X. birchmanni,character_68,1,RADP_11,RADP_characters
+X. clemenciae,character_68,1,RADP_11,RADP_characters
+X. continens,character_68,1,RADP_11,RADP_characters
+X. cortezi,character_68,1,RADP_11,RADP_characters
+X. couchianus,character_68,NA,RADP_11,RADP_characters
+X. evelynae,character_68,NA,RADP_11,RADP_characters
+X. gordoni,character_68,NA,RADP_11,RADP_characters
+X. helleri,character_68,0,RADP_11,RADP_characters
+X. maculatus,character_68,1,RADP_11,RADP_characters
+X. malinche,character_68,1,RADP_11,RADP_characters
+X. meyeri,character_68,NA,RADP_11,RADP_characters
+X. milleri,character_68,NA,RADP_11,RADP_characters
+X. montezumae,character_68,1,RADP_11,RADP_characters
+X. multilineatus,character_68,1,RADP_11,RADP_characters
+X. nezahualcqyotl,character_68,1,RADP_11,RADP_characters
+X. nigrensis,character_68,1,RADP_11,RADP_characters
+X. pygmaeus,character_68,1,RADP_11,RADP_characters
+X. signum,character_68,NA,RADP_11,RADP_characters
+X. variatus,character_68,1,RADP_11,RADP_characters
+X. xiphidium,character_68,1,RADP_11,RADP_characters
+P. reticulata,character_69,NA,RADP_12,RADP_characters
+P. butleri,character_69,NA,RADP_12,RADP_characters
+A. hubberi,character_69,NA,RADP_12,RADP_characters
+P. coompressa,character_69,NA,RADP_12,RADP_characters
+P. intermedia,character_69,NA,RADP_12,RADP_characters
+P. olmaceae,character_69,NA,RADP_12,RADP_characters
+X. alvarezi,character_69,NA,RADP_12,RADP_characters
+X. andersi,character_69,NA,RADP_12,RADP_characters
+X. birchmanni,character_69,0,RADP_12,RADP_characters
+X. clemenciae,character_69,P,RADP_12,RADP_characters
+X. continens,character_69,0,RADP_12,RADP_characters
+X. cortezi,character_69,0,RADP_12,RADP_characters
+X. couchianus,character_69,NA,RADP_12,RADP_characters
+X. evelynae,character_69,NA,RADP_12,RADP_characters
+X. gordoni,character_69,NA,RADP_12,RADP_characters
+X. helleri,character_69,1,RADP_12,RADP_characters
+X. maculatus,character_69,1,RADP_12,RADP_characters
+X. malinche,character_69,0,RADP_12,RADP_characters
+X. meyeri,character_69,NA,RADP_12,RADP_characters
+X. milleri,character_69,NA,RADP_12,RADP_characters
+X. montezumae,character_69,0,RADP_12,RADP_characters
+X. multilineatus,character_69,0,RADP_12,RADP_characters
+X. nezahualcqyotl,character_69,1,RADP_12,RADP_characters
+X. nigrensis,character_69,0,RADP_12,RADP_characters
+X. pygmaeus,character_69,0,RADP_12,RADP_characters
+X. signum,character_69,NA,RADP_12,RADP_characters
+X. variatus,character_69,1,RADP_12,RADP_characters
+X. xiphidium,character_69,1,RADP_12,RADP_characters
+P. reticulata,character_70,NA,RADP_13,RADP_characters
+P. butleri,character_70,NA,RADP_13,RADP_characters
+A. hubberi,character_70,NA,RADP_13,RADP_characters
+P. coompressa,character_70,NA,RADP_13,RADP_characters
+P. intermedia,character_70,NA,RADP_13,RADP_characters
+P. olmaceae,character_70,NA,RADP_13,RADP_characters
+X. alvarezi,character_70,NA,RADP_13,RADP_characters
+X. andersi,character_70,NA,RADP_13,RADP_characters
+X. birchmanni,character_70,P,RADP_13,RADP_characters
+X. clemenciae,character_70,1,RADP_13,RADP_characters
+X. continens,character_70,1,RADP_13,RADP_characters
+X. cortezi,character_70,0,RADP_13,RADP_characters
+X. couchianus,character_70,NA,RADP_13,RADP_characters
+X. evelynae,character_70,NA,RADP_13,RADP_characters
+X. gordoni,character_70,NA,RADP_13,RADP_characters
+X. helleri,character_70,1,RADP_13,RADP_characters
+X. maculatus,character_70,0,RADP_13,RADP_characters
+X. malinche,character_70,0,RADP_13,RADP_characters
+X. meyeri,character_70,NA,RADP_13,RADP_characters
+X. milleri,character_70,NA,RADP_13,RADP_characters
+X. montezumae,character_70,1,RADP_13,RADP_characters
+X. multilineatus,character_70,1,RADP_13,RADP_characters
+X. nezahualcqyotl,character_70,1,RADP_13,RADP_characters
+X. nigrensis,character_70,1,RADP_13,RADP_characters
+X. pygmaeus,character_70,1,RADP_13,RADP_characters
+X. signum,character_70,NA,RADP_13,RADP_characters
+X. variatus,character_70,0,RADP_13,RADP_characters
+X. xiphidium,character_70,0,RADP_13,RADP_characters
+P. reticulata,character_71,NA,RADP_14,RADP_characters
+P. butleri,character_71,NA,RADP_14,RADP_characters
+A. hubberi,character_71,NA,RADP_14,RADP_characters
+P. coompressa,character_71,NA,RADP_14,RADP_characters
+P. intermedia,character_71,NA,RADP_14,RADP_characters
+P. olmaceae,character_71,NA,RADP_14,RADP_characters
+X. alvarezi,character_71,NA,RADP_14,RADP_characters
+X. andersi,character_71,NA,RADP_14,RADP_characters
+X. birchmanni,character_71,0,RADP_14,RADP_characters
+X. clemenciae,character_71,P,RADP_14,RADP_characters
+X. continens,character_71,1,RADP_14,RADP_characters
+X. cortezi,character_71,1,RADP_14,RADP_characters
+X. couchianus,character_71,NA,RADP_14,RADP_characters
+X. evelynae,character_71,NA,RADP_14,RADP_characters
+X. gordoni,character_71,NA,RADP_14,RADP_characters
+X. helleri,character_71,0,RADP_14,RADP_characters
+X. maculatus,character_71,0,RADP_14,RADP_characters
+X. malinche,character_71,0,RADP_14,RADP_characters
+X. meyeri,character_71,NA,RADP_14,RADP_characters
+X. milleri,character_71,NA,RADP_14,RADP_characters
+X. montezumae,character_71,1,RADP_14,RADP_characters
+X. multilineatus,character_71,1,RADP_14,RADP_characters
+X. nezahualcqyotl,character_71,1,RADP_14,RADP_characters
+X. nigrensis,character_71,1,RADP_14,RADP_characters
+X. pygmaeus,character_71,1,RADP_14,RADP_characters
+X. signum,character_71,NA,RADP_14,RADP_characters
+X. variatus,character_71,P,RADP_14,RADP_characters
+X. xiphidium,character_71,0,RADP_14,RADP_characters
+P. reticulata,character_72,NA,RADP_15,RADP_characters
+P. butleri,character_72,NA,RADP_15,RADP_characters
+A. hubberi,character_72,NA,RADP_15,RADP_characters
+P. coompressa,character_72,NA,RADP_15,RADP_characters
+P. intermedia,character_72,NA,RADP_15,RADP_characters
+P. olmaceae,character_72,NA,RADP_15,RADP_characters
+X. alvarezi,character_72,NA,RADP_15,RADP_characters
+X. andersi,character_72,NA,RADP_15,RADP_characters
+X. birchmanni,character_72,1,RADP_15,RADP_characters
+X. clemenciae,character_72,1,RADP_15,RADP_characters
+X. continens,character_72,1,RADP_15,RADP_characters
+X. cortezi,character_72,1,RADP_15,RADP_characters
+X. couchianus,character_72,NA,RADP_15,RADP_characters
+X. evelynae,character_72,NA,RADP_15,RADP_characters
+X. gordoni,character_72,NA,RADP_15,RADP_characters
+X. helleri,character_72,0,RADP_15,RADP_characters
+X. maculatus,character_72,0,RADP_15,RADP_characters
+X. malinche,character_72,1,RADP_15,RADP_characters
+X. meyeri,character_72,NA,RADP_15,RADP_characters
+X. milleri,character_72,NA,RADP_15,RADP_characters
+X. montezumae,character_72,1,RADP_15,RADP_characters
+X. multilineatus,character_72,1,RADP_15,RADP_characters
+X. nezahualcqyotl,character_72,1,RADP_15,RADP_characters
+X. nigrensis,character_72,NA,RADP_15,RADP_characters
+X. pygmaeus,character_72,1,RADP_15,RADP_characters
+X. signum,character_72,NA,RADP_15,RADP_characters
+X. variatus,character_72,0,RADP_15,RADP_characters
+X. xiphidium,character_72,0,RADP_15,RADP_characters
+P. reticulata,character_73,NA,RADP_16,RADP_characters
+P. butleri,character_73,NA,RADP_16,RADP_characters
+A. hubberi,character_73,NA,RADP_16,RADP_characters
+P. coompressa,character_73,NA,RADP_16,RADP_characters
+P. intermedia,character_73,NA,RADP_16,RADP_characters
+P. olmaceae,character_73,NA,RADP_16,RADP_characters
+X. alvarezi,character_73,NA,RADP_16,RADP_characters
+X. andersi,character_73,NA,RADP_16,RADP_characters
+X. birchmanni,character_73,0,RADP_16,RADP_characters
+X. clemenciae,character_73,0,RADP_16,RADP_characters
+X. continens,character_73,1,RADP_16,RADP_characters
+X. cortezi,character_73,0,RADP_16,RADP_characters
+X. couchianus,character_73,NA,RADP_16,RADP_characters
+X. evelynae,character_73,NA,RADP_16,RADP_characters
+X. gordoni,character_73,NA,RADP_16,RADP_characters
+X. helleri,character_73,0,RADP_16,RADP_characters
+X. maculatus,character_73,0,RADP_16,RADP_characters
+X. malinche,character_73,0,RADP_16,RADP_characters
+X. meyeri,character_73,NA,RADP_16,RADP_characters
+X. milleri,character_73,NA,RADP_16,RADP_characters
+X. montezumae,character_73,1,RADP_16,RADP_characters
+X. multilineatus,character_73,0,RADP_16,RADP_characters
+X. nezahualcqyotl,character_73,1,RADP_16,RADP_characters
+X. nigrensis,character_73,0,RADP_16,RADP_characters
+X. pygmaeus,character_73,0,RADP_16,RADP_characters
+X. signum,character_73,NA,RADP_16,RADP_characters
+X. variatus,character_73,0,RADP_16,RADP_characters
+X. xiphidium,character_73,0,RADP_16,RADP_characters
+P. reticulata,character_74,NA,RADP_17,RADP_characters
+P. butleri,character_74,NA,RADP_17,RADP_characters
+A. hubberi,character_74,NA,RADP_17,RADP_characters
+P. coompressa,character_74,NA,RADP_17,RADP_characters
+P. intermedia,character_74,NA,RADP_17,RADP_characters
+P. olmaceae,character_74,NA,RADP_17,RADP_characters
+X. alvarezi,character_74,NA,RADP_17,RADP_characters
+X. andersi,character_74,NA,RADP_17,RADP_characters
+X. birchmanni,character_74,0,RADP_17,RADP_characters
+X. clemenciae,character_74,P,RADP_17,RADP_characters
+X. continens,character_74,1,RADP_17,RADP_characters
+X. cortezi,character_74,0,RADP_17,RADP_characters
+X. couchianus,character_74,NA,RADP_17,RADP_characters
+X. evelynae,character_74,NA,RADP_17,RADP_characters
+X. gordoni,character_74,NA,RADP_17,RADP_characters
+X. helleri,character_74,1,RADP_17,RADP_characters
+X. maculatus,character_74,0,RADP_17,RADP_characters
+X. malinche,character_74,0,RADP_17,RADP_characters
+X. meyeri,character_74,NA,RADP_17,RADP_characters
+X. milleri,character_74,NA,RADP_17,RADP_characters
+X. montezumae,character_74,1,RADP_17,RADP_characters
+X. multilineatus,character_74,1,RADP_17,RADP_characters
+X. nezahualcqyotl,character_74,1,RADP_17,RADP_characters
+X. nigrensis,character_74,1,RADP_17,RADP_characters
+X. pygmaeus,character_74,1,RADP_17,RADP_characters
+X. signum,character_74,NA,RADP_17,RADP_characters
+X. variatus,character_74,1,RADP_17,RADP_characters
+X. xiphidium,character_74,1,RADP_17,RADP_characters
+P. reticulata,character_75,NA,RADP_18,RADP_characters
+P. butleri,character_75,NA,RADP_18,RADP_characters
+A. hubberi,character_75,NA,RADP_18,RADP_characters
+P. coompressa,character_75,NA,RADP_18,RADP_characters
+P. intermedia,character_75,NA,RADP_18,RADP_characters
+P. olmaceae,character_75,NA,RADP_18,RADP_characters
+X. alvarezi,character_75,NA,RADP_18,RADP_characters
+X. andersi,character_75,NA,RADP_18,RADP_characters
+X. birchmanni,character_75,1,RADP_18,RADP_characters
+X. clemenciae,character_75,P,RADP_18,RADP_characters
+X. continens,character_75,0,RADP_18,RADP_characters
+X. cortezi,character_75,1,RADP_18,RADP_characters
+X. couchianus,character_75,NA,RADP_18,RADP_characters
+X. evelynae,character_75,NA,RADP_18,RADP_characters
+X. gordoni,character_75,NA,RADP_18,RADP_characters
+X. helleri,character_75,1,RADP_18,RADP_characters
+X. maculatus,character_75,0,RADP_18,RADP_characters
+X. malinche,character_75,1,RADP_18,RADP_characters
+X. meyeri,character_75,NA,RADP_18,RADP_characters
+X. milleri,character_75,NA,RADP_18,RADP_characters
+X. montezumae,character_75,0,RADP_18,RADP_characters
+X. multilineatus,character_75,0,RADP_18,RADP_characters
+X. nezahualcqyotl,character_75,0,RADP_18,RADP_characters
+X. nigrensis,character_75,0,RADP_18,RADP_characters
+X. pygmaeus,character_75,0,RADP_18,RADP_characters
+X. signum,character_75,NA,RADP_18,RADP_characters
+X. variatus,character_75,0,RADP_18,RADP_characters
+X. xiphidium,character_75,0,RADP_18,RADP_characters
+P. reticulata,character_76,NA,RADP_19,RADP_characters
+P. butleri,character_76,NA,RADP_19,RADP_characters
+A. hubberi,character_76,NA,RADP_19,RADP_characters
+P. coompressa,character_76,NA,RADP_19,RADP_characters
+P. intermedia,character_76,NA,RADP_19,RADP_characters
+P. olmaceae,character_76,NA,RADP_19,RADP_characters
+X. alvarezi,character_76,NA,RADP_19,RADP_characters
+X. andersi,character_76,NA,RADP_19,RADP_characters
+X. birchmanni,character_76,0,RADP_19,RADP_characters
+X. clemenciae,character_76,0,RADP_19,RADP_characters
+X. continens,character_76,1,RADP_19,RADP_characters
+X. cortezi,character_76,P,RADP_19,RADP_characters
+X. couchianus,character_76,NA,RADP_19,RADP_characters
+X. evelynae,character_76,NA,RADP_19,RADP_characters
+X. gordoni,character_76,NA,RADP_19,RADP_characters
+X. helleri,character_76,0,RADP_19,RADP_characters
+X. maculatus,character_76,0,RADP_19,RADP_characters
+X. malinche,character_76,0,RADP_19,RADP_characters
+X. meyeri,character_76,NA,RADP_19,RADP_characters
+X. milleri,character_76,NA,RADP_19,RADP_characters
+X. montezumae,character_76,1,RADP_19,RADP_characters
+X. multilineatus,character_76,1,RADP_19,RADP_characters
+X. nezahualcqyotl,character_76,1,RADP_19,RADP_characters
+X. nigrensis,character_76,1,RADP_19,RADP_characters
+X. pygmaeus,character_76,1,RADP_19,RADP_characters
+X. signum,character_76,NA,RADP_19,RADP_characters
+X. variatus,character_76,P,RADP_19,RADP_characters
+X. xiphidium,character_76,0,RADP_19,RADP_characters
+P. reticulata,character_77,NA,RADP_20,RADP_characters
+P. butleri,character_77,NA,RADP_20,RADP_characters
+A. hubberi,character_77,NA,RADP_20,RADP_characters
+P. coompressa,character_77,NA,RADP_20,RADP_characters
+P. intermedia,character_77,NA,RADP_20,RADP_characters
+P. olmaceae,character_77,NA,RADP_20,RADP_characters
+X. alvarezi,character_77,NA,RADP_20,RADP_characters
+X. andersi,character_77,NA,RADP_20,RADP_characters
+X. birchmanni,character_77,1,RADP_20,RADP_characters
+X. clemenciae,character_77,0,RADP_20,RADP_characters
+X. continens,character_77,0,RADP_20,RADP_characters
+X. cortezi,character_77,P,RADP_20,RADP_characters
+X. couchianus,character_77,NA,RADP_20,RADP_characters
+X. evelynae,character_77,NA,RADP_20,RADP_characters
+X. gordoni,character_77,NA,RADP_20,RADP_characters
+X. helleri,character_77,1,RADP_20,RADP_characters
+X. maculatus,character_77,0,RADP_20,RADP_characters
+X. malinche,character_77,1,RADP_20,RADP_characters
+X. meyeri,character_77,NA,RADP_20,RADP_characters
+X. milleri,character_77,NA,RADP_20,RADP_characters
+X. montezumae,character_77,0,RADP_20,RADP_characters
+X. multilineatus,character_77,0,RADP_20,RADP_characters
+X. nezahualcqyotl,character_77,0,RADP_20,RADP_characters
+X. nigrensis,character_77,0,RADP_20,RADP_characters
+X. pygmaeus,character_77,0,RADP_20,RADP_characters
+X. signum,character_77,NA,RADP_20,RADP_characters
+X. variatus,character_77,P,RADP_20,RADP_characters
+X. xiphidium,character_77,0,RADP_20,RADP_characters
+P. reticulata,character_78,NA,RADP_21,RADP_characters
+P. butleri,character_78,NA,RADP_21,RADP_characters
+A. hubberi,character_78,NA,RADP_21,RADP_characters
+P. coompressa,character_78,NA,RADP_21,RADP_characters
+P. intermedia,character_78,NA,RADP_21,RADP_characters
+P. olmaceae,character_78,NA,RADP_21,RADP_characters
+X. alvarezi,character_78,NA,RADP_21,RADP_characters
+X. andersi,character_78,NA,RADP_21,RADP_characters
+X. birchmanni,character_78,1,RADP_21,RADP_characters
+X. clemenciae,character_78,0,RADP_21,RADP_characters
+X. continens,character_78,1,RADP_21,RADP_characters
+X. cortezi,character_78,P,RADP_21,RADP_characters
+X. couchianus,character_78,NA,RADP_21,RADP_characters
+X. evelynae,character_78,NA,RADP_21,RADP_characters
+X. gordoni,character_78,NA,RADP_21,RADP_characters
+X. helleri,character_78,0,RADP_21,RADP_characters
+X. maculatus,character_78,1,RADP_21,RADP_characters
+X. malinche,character_78,1,RADP_21,RADP_characters
+X. meyeri,character_78,NA,RADP_21,RADP_characters
+X. milleri,character_78,NA,RADP_21,RADP_characters
+X. montezumae,character_78,1,RADP_21,RADP_characters
+X. multilineatus,character_78,1,RADP_21,RADP_characters
+X. nezahualcqyotl,character_78,1,RADP_21,RADP_characters
+X. nigrensis,character_78,1,RADP_21,RADP_characters
+X. pygmaeus,character_78,1,RADP_21,RADP_characters
+X. signum,character_78,NA,RADP_21,RADP_characters
+X. variatus,character_78,0,RADP_21,RADP_characters
+X. xiphidium,character_78,0,RADP_21,RADP_characters
+P. reticulata,character_79,NA,RADP_22,RADP_characters
+P. butleri,character_79,NA,RADP_22,RADP_characters
+A. hubberi,character_79,NA,RADP_22,RADP_characters
+P. coompressa,character_79,NA,RADP_22,RADP_characters
+P. intermedia,character_79,NA,RADP_22,RADP_characters
+P. olmaceae,character_79,NA,RADP_22,RADP_characters
+X. alvarezi,character_79,NA,RADP_22,RADP_characters
+X. andersi,character_79,NA,RADP_22,RADP_characters
+X. birchmanni,character_79,0,RADP_22,RADP_characters
+X. clemenciae,character_79,1,RADP_22,RADP_characters
+X. continens,character_79,1,RADP_22,RADP_characters
+X. cortezi,character_79,0,RADP_22,RADP_characters
+X. couchianus,character_79,NA,RADP_22,RADP_characters
+X. evelynae,character_79,NA,RADP_22,RADP_characters
+X. gordoni,character_79,NA,RADP_22,RADP_characters
+X. helleri,character_79,0,RADP_22,RADP_characters
+X. maculatus,character_79,1,RADP_22,RADP_characters
+X. malinche,character_79,0,RADP_22,RADP_characters
+X. meyeri,character_79,NA,RADP_22,RADP_characters
+X. milleri,character_79,NA,RADP_22,RADP_characters
+X. montezumae,character_79,1,RADP_22,RADP_characters
+X. multilineatus,character_79,1,RADP_22,RADP_characters
+X. nezahualcqyotl,character_79,1,RADP_22,RADP_characters
+X. nigrensis,character_79,1,RADP_22,RADP_characters
+X. pygmaeus,character_79,0,RADP_22,RADP_characters
+X. signum,character_79,NA,RADP_22,RADP_characters
+X. variatus,character_79,1,RADP_22,RADP_characters
+X. xiphidium,character_79,0,RADP_22,RADP_characters
+P. reticulata,character_80,NA,RADP_23,RADP_characters
+P. butleri,character_80,NA,RADP_23,RADP_characters
+A. hubberi,character_80,NA,RADP_23,RADP_characters
+P. coompressa,character_80,NA,RADP_23,RADP_characters
+P. intermedia,character_80,NA,RADP_23,RADP_characters
+P. olmaceae,character_80,NA,RADP_23,RADP_characters
+X. alvarezi,character_80,NA,RADP_23,RADP_characters
+X. andersi,character_80,NA,RADP_23,RADP_characters
+X. birchmanni,character_80,1,RADP_23,RADP_characters
+X. clemenciae,character_80,1,RADP_23,RADP_characters
+X. continens,character_80,1,RADP_23,RADP_characters
+X. cortezi,character_80,0,RADP_23,RADP_characters
+X. couchianus,character_80,NA,RADP_23,RADP_characters
+X. evelynae,character_80,NA,RADP_23,RADP_characters
+X. gordoni,character_80,NA,RADP_23,RADP_characters
+X. helleri,character_80,1,RADP_23,RADP_characters
+X. maculatus,character_80,0,RADP_23,RADP_characters
+X. malinche,character_80,1,RADP_23,RADP_characters
+X. meyeri,character_80,NA,RADP_23,RADP_characters
+X. milleri,character_80,NA,RADP_23,RADP_characters
+X. montezumae,character_80,1,RADP_23,RADP_characters
+X. multilineatus,character_80,1,RADP_23,RADP_characters
+X. nezahualcqyotl,character_80,1,RADP_23,RADP_characters
+X. nigrensis,character_80,1,RADP_23,RADP_characters
+X. pygmaeus,character_80,1,RADP_23,RADP_characters
+X. signum,character_80,NA,RADP_23,RADP_characters
+X. variatus,character_80,1,RADP_23,RADP_characters
+X. xiphidium,character_80,1,RADP_23,RADP_characters
+P. reticulata,character_81,NA,RADP_24,RADP_characters
+P. butleri,character_81,NA,RADP_24,RADP_characters
+A. hubberi,character_81,NA,RADP_24,RADP_characters
+P. coompressa,character_81,NA,RADP_24,RADP_characters
+P. intermedia,character_81,NA,RADP_24,RADP_characters
+P. olmaceae,character_81,NA,RADP_24,RADP_characters
+X. alvarezi,character_81,NA,RADP_24,RADP_characters
+X. andersi,character_81,NA,RADP_24,RADP_characters
+X. birchmanni,character_81,1,RADP_24,RADP_characters
+X. clemenciae,character_81,1,RADP_24,RADP_characters
+X. continens,character_81,NA,RADP_24,RADP_characters
+X. cortezi,character_81,1,RADP_24,RADP_characters
+X. couchianus,character_81,NA,RADP_24,RADP_characters
+X. evelynae,character_81,NA,RADP_24,RADP_characters
+X. gordoni,character_81,NA,RADP_24,RADP_characters
+X. helleri,character_81,1,RADP_24,RADP_characters
+X. maculatus,character_81,1,RADP_24,RADP_characters
+X. malinche,character_81,1,RADP_24,RADP_characters
+X. meyeri,character_81,NA,RADP_24,RADP_characters
+X. milleri,character_81,NA,RADP_24,RADP_characters
+X. montezumae,character_81,1,RADP_24,RADP_characters
+X. multilineatus,character_81,1,RADP_24,RADP_characters
+X. nezahualcqyotl,character_81,0,RADP_24,RADP_characters
+X. nigrensis,character_81,0,RADP_24,RADP_characters
+X. pygmaeus,character_81,0,RADP_24,RADP_characters
+X. signum,character_81,NA,RADP_24,RADP_characters
+X. variatus,character_81,1,RADP_24,RADP_characters
+X. xiphidium,character_81,1,RADP_24,RADP_characters
+P. reticulata,character_82,NA,RADP_25,RADP_characters
+P. butleri,character_82,NA,RADP_25,RADP_characters
+A. hubberi,character_82,NA,RADP_25,RADP_characters
+P. coompressa,character_82,NA,RADP_25,RADP_characters
+P. intermedia,character_82,NA,RADP_25,RADP_characters
+P. olmaceae,character_82,NA,RADP_25,RADP_characters
+X. alvarezi,character_82,NA,RADP_25,RADP_characters
+X. andersi,character_82,NA,RADP_25,RADP_characters
+X. birchmanni,character_82,0,RADP_25,RADP_characters
+X. clemenciae,character_82,1,RADP_25,RADP_characters
+X. continens,character_82,1,RADP_25,RADP_characters
+X. cortezi,character_82,1,RADP_25,RADP_characters
+X. couchianus,character_82,NA,RADP_25,RADP_characters
+X. evelynae,character_82,NA,RADP_25,RADP_characters
+X. gordoni,character_82,NA,RADP_25,RADP_characters
+X. helleri,character_82,1,RADP_25,RADP_characters
+X. maculatus,character_82,0,RADP_25,RADP_characters
+X. malinche,character_82,0,RADP_25,RADP_characters
+X. meyeri,character_82,NA,RADP_25,RADP_characters
+X. milleri,character_82,NA,RADP_25,RADP_characters
+X. montezumae,character_82,1,RADP_25,RADP_characters
+X. multilineatus,character_82,1,RADP_25,RADP_characters
+X. nezahualcqyotl,character_82,NA,RADP_25,RADP_characters
+X. nigrensis,character_82,1,RADP_25,RADP_characters
+X. pygmaeus,character_82,1,RADP_25,RADP_characters
+X. signum,character_82,NA,RADP_25,RADP_characters
+X. variatus,character_82,0,RADP_25,RADP_characters
+X. xiphidium,character_82,0,RADP_25,RADP_characters
+P. reticulata,character_83,NA,RADP_26,RADP_characters
+P. butleri,character_83,NA,RADP_26,RADP_characters
+A. hubberi,character_83,NA,RADP_26,RADP_characters
+P. coompressa,character_83,NA,RADP_26,RADP_characters
+P. intermedia,character_83,NA,RADP_26,RADP_characters
+P. olmaceae,character_83,NA,RADP_26,RADP_characters
+X. alvarezi,character_83,NA,RADP_26,RADP_characters
+X. andersi,character_83,NA,RADP_26,RADP_characters
+X. birchmanni,character_83,0,RADP_26,RADP_characters
+X. clemenciae,character_83,0,RADP_26,RADP_characters
+X. continens,character_83,0,RADP_26,RADP_characters
+X. cortezi,character_83,0,RADP_26,RADP_characters
+X. couchianus,character_83,NA,RADP_26,RADP_characters
+X. evelynae,character_83,NA,RADP_26,RADP_characters
+X. gordoni,character_83,NA,RADP_26,RADP_characters
+X. helleri,character_83,0,RADP_26,RADP_characters
+X. maculatus,character_83,1,RADP_26,RADP_characters
+X. malinche,character_83,0,RADP_26,RADP_characters
+X. meyeri,character_83,NA,RADP_26,RADP_characters
+X. milleri,character_83,NA,RADP_26,RADP_characters
+X. montezumae,character_83,1,RADP_26,RADP_characters
+X. multilineatus,character_83,1,RADP_26,RADP_characters
+X. nezahualcqyotl,character_83,0,RADP_26,RADP_characters
+X. nigrensis,character_83,0,RADP_26,RADP_characters
+X. pygmaeus,character_83,0,RADP_26,RADP_characters
+X. signum,character_83,NA,RADP_26,RADP_characters
+X. variatus,character_83,1,RADP_26,RADP_characters
+X. xiphidium,character_83,1,RADP_26,RADP_characters
+P. reticulata,character_84,NA,RADP_27,RADP_characters
+P. butleri,character_84,NA,RADP_27,RADP_characters
+A. hubberi,character_84,NA,RADP_27,RADP_characters
+P. coompressa,character_84,NA,RADP_27,RADP_characters
+P. intermedia,character_84,NA,RADP_27,RADP_characters
+P. olmaceae,character_84,NA,RADP_27,RADP_characters
+X. alvarezi,character_84,NA,RADP_27,RADP_characters
+X. andersi,character_84,NA,RADP_27,RADP_characters
+X. birchmanni,character_84,1,RADP_27,RADP_characters
+X. clemenciae,character_84,1,RADP_27,RADP_characters
+X. continens,character_84,1,RADP_27,RADP_characters
+X. cortezi,character_84,1,RADP_27,RADP_characters
+X. couchianus,character_84,NA,RADP_27,RADP_characters
+X. evelynae,character_84,NA,RADP_27,RADP_characters
+X. gordoni,character_84,NA,RADP_27,RADP_characters
+X. helleri,character_84,0,RADP_27,RADP_characters
+X. maculatus,character_84,0,RADP_27,RADP_characters
+X. malinche,character_84,1,RADP_27,RADP_characters
+X. meyeri,character_84,NA,RADP_27,RADP_characters
+X. milleri,character_84,NA,RADP_27,RADP_characters
+X. montezumae,character_84,1,RADP_27,RADP_characters
+X. multilineatus,character_84,1,RADP_27,RADP_characters
+X. nezahualcqyotl,character_84,1,RADP_27,RADP_characters
+X. nigrensis,character_84,NA,RADP_27,RADP_characters
+X. pygmaeus,character_84,1,RADP_27,RADP_characters
+X. signum,character_84,NA,RADP_27,RADP_characters
+X. variatus,character_84,0,RADP_27,RADP_characters
+X. xiphidium,character_84,1,RADP_27,RADP_characters
+P. reticulata,character_85,NA,RADP_28,RADP_characters
+P. butleri,character_85,NA,RADP_28,RADP_characters
+A. hubberi,character_85,NA,RADP_28,RADP_characters
+P. coompressa,character_85,NA,RADP_28,RADP_characters
+P. intermedia,character_85,NA,RADP_28,RADP_characters
+P. olmaceae,character_85,NA,RADP_28,RADP_characters
+X. alvarezi,character_85,NA,RADP_28,RADP_characters
+X. andersi,character_85,NA,RADP_28,RADP_characters
+X. birchmanni,character_85,1,RADP_28,RADP_characters
+X. clemenciae,character_85,0,RADP_28,RADP_characters
+X. continens,character_85,1,RADP_28,RADP_characters
+X. cortezi,character_85,P,RADP_28,RADP_characters
+X. couchianus,character_85,NA,RADP_28,RADP_characters
+X. evelynae,character_85,NA,RADP_28,RADP_characters
+X. gordoni,character_85,NA,RADP_28,RADP_characters
+X. helleri,character_85,0,RADP_28,RADP_characters
+X. maculatus,character_85,1,RADP_28,RADP_characters
+X. malinche,character_85,1,RADP_28,RADP_characters
+X. meyeri,character_85,NA,RADP_28,RADP_characters
+X. milleri,character_85,NA,RADP_28,RADP_characters
+X. montezumae,character_85,1,RADP_28,RADP_characters
+X. multilineatus,character_85,1,RADP_28,RADP_characters
+X. nezahualcqyotl,character_85,1,RADP_28,RADP_characters
+X. nigrensis,character_85,1,RADP_28,RADP_characters
+X. pygmaeus,character_85,1,RADP_28,RADP_characters
+X. signum,character_85,NA,RADP_28,RADP_characters
+X. variatus,character_85,1,RADP_28,RADP_characters
+X. xiphidium,character_85,1,RADP_28,RADP_characters
+P. reticulata,character_86,NA,INV-XmrkEcoR1restrictionfragmentlengthpoly- morphism,NA
+P. butleri,character_86,NA,INV-XmrkEcoR1restrictionfragmentlengthpoly- morphism,NA
+A. hubberi,character_86,NA,INV-XmrkEcoR1restrictionfragmentlengthpoly- morphism,NA
+P. coompressa,character_86,NA,INV-XmrkEcoR1restrictionfragmentlengthpoly- morphism,NA
+P. intermedia,character_86,NA,INV-XmrkEcoR1restrictionfragmentlengthpoly- morphism,NA
+P. olmaceae,character_86,NA,INV-XmrkEcoR1restrictionfragmentlengthpoly- morphism,NA
+X. alvarezi,character_86,NA,INV-XmrkEcoR1restrictionfragmentlengthpoly- morphism,NA
+X. andersi,character_86,0,INV-XmrkEcoR1restrictionfragmentlengthpoly- morphism,NA
+X. birchmanni,character_86,0,INV-XmrkEcoR1restrictionfragmentlengthpoly- morphism,NA
+X. clemenciae,character_86,0,INV-XmrkEcoR1restrictionfragmentlengthpoly- morphism,NA
+X. continens,character_86,NA,INV-XmrkEcoR1restrictionfragmentlengthpoly- morphism,NA
+X. cortezi,character_86,0,INV-XmrkEcoR1restrictionfragmentlengthpoly- morphism,NA
+X. couchianus,character_86,1,INV-XmrkEcoR1restrictionfragmentlengthpoly- morphism,NA
+X. evelynae,character_86,0,INV-XmrkEcoR1restrictionfragmentlengthpoly- morphism,NA
+X. gordoni,character_86,1,INV-XmrkEcoR1restrictionfragmentlengthpoly- morphism,NA
+X. helleri,character_86,0,INV-XmrkEcoR1restrictionfragmentlengthpoly- morphism,NA
+X. maculatus,character_86,0,INV-XmrkEcoR1restrictionfragmentlengthpoly- morphism,NA
+X. malinche,character_86,NA,INV-XmrkEcoR1restrictionfragmentlengthpoly- morphism,NA
+X. meyeri,character_86,1,INV-XmrkEcoR1restrictionfragmentlengthpoly- morphism,NA
+X. milleri,character_86,0,INV-XmrkEcoR1restrictionfragmentlengthpoly- morphism,NA
+X. montezumae,character_86,0,INV-XmrkEcoR1restrictionfragmentlengthpoly- morphism,NA
+X. multilineatus,character_86,NA,INV-XmrkEcoR1restrictionfragmentlengthpoly- morphism,NA
+X. nezahualcqyotl,character_86,NA,INV-XmrkEcoR1restrictionfragmentlengthpoly- morphism,NA
+X. nigrensis,character_86,0,INV-XmrkEcoR1restrictionfragmentlengthpoly- morphism,NA
+X. pygmaeus,character_86,0,INV-XmrkEcoR1restrictionfragmentlengthpoly- morphism,NA
+X. signum,character_86,0,INV-XmrkEcoR1restrictionfragmentlengthpoly- morphism,NA
+X. variatus,character_86,0,INV-XmrkEcoR1restrictionfragmentlengthpoly- morphism,NA
+X. xiphidium,character_86,0,INV-XmrkEcoR1restrictionfragmentlengthpoly- morphism,NA

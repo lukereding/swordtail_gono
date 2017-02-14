@@ -1,0 +1,13 @@
+I used [this](http://www.newocr.com/) image to text converter to convert the table as a png file to text.
+
+There were many errors, however.
+
+So I needed to do some substitutions.
+
+I did simple find and replaces to replace O's with 0's, l's with 1's, etc.
+
+The other major challenge was checking to make sure the number of dashes was the same as in the table. I usually had to add additional dashes.
+
+I then had to add whitespace in between all the characters
+
+I then replaced all `-` and `?` characters with `NA`
