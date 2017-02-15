@@ -84,7 +84,7 @@ require(ggrepel)
 # chisq.test(matrix(c(2,12,3,1), ncol = 2)); p = 0.07
 df %>% 
   group_by(`Well-developed precopulatory behavior`, `Distal serrae on ray 4p of the gonopodium.`) %>% 
-  count %>%
+  tally %>%
   ggplot(aes(factor(`Well-developed precopulatory behavior`), n, fill = factor(`Distal serrae on ray 4p of the gonopodium.`))) +
   geom_bar(stat = "identity",position = "fill") +
   scale_fill_blues() +
@@ -183,10 +183,69 @@ df %>%
 
 
 
+# p = 0.06
+df %>% 
+  group_by(`Well-developed precopulatory behavior`, `Grave spot.`) %>% 
+  tally %>%
+  filter(`Well-developed precopulatory behavior` != "NA") %>%
+  ggplot(aes(factor(`Well-developed precopulatory behavior`), n, fill = factor(`Grave spot.`))) +
+  geom_bar(stat = "identity",position = "fill") +
+  scale_fill_blues()
 
 
 
+# bingo
+df %>% 
+  group_by(`Well-developed precopulatory behavior`, `Claw presence vs absence`) %>% 
+  tally %>%
+  filter(!is.na(`Well-developed precopulatory behavior`)) %>%
+  ggplot(aes(factor(`Well-developed precopulatory behavior`), n, fill = factor(`Claw presence vs absence`))) +
+  geom_bar(stat = "identity",position = "fill") +
+  scale_fill_blues() +
+  scale_y_continuous(labels = scales::percent_format()) 
 
+df %>% 
+  group_by(`Well-developed precopulatory behavior`, `Claw size described in relation to distal serrae of ray 4b`) %>% 
+  tally %>%
+  filter(!is.na(`Well-developed precopulatory behavior`)) %>%
+  ggplot(aes(factor(`Well-developed precopulatory behavior`), n, fill = factor(`Claw size described in relation to distal serrae of ray 4b`))) +
+  geom_bar(stat = "identity",position = "fill") +
+  scale_fill_blues(guide = F) +
+  scale_y_continuous(labels = scales::percent_format()) +
+  coord_polar()
+
+df %>% 
+  group_by(`Well-developed precopulatory behavior`, `Spine angle of ray 3`) %>% 
+  tally %>%
+  filter(!is.na(`Well-developed precopulatory behavior`)) %>%
+  ggplot(aes(factor(`Well-developed precopulatory behavior`), n, fill = factor(`Spine angle of ray 3`))) +
+  geom_bar(stat = "identity",position = "fill") +
+  scale_fill_blues() +
+  scale_y_continuous(labels = scales::percent_format()) +
+  coord_polar()
+
+#close
+df %>% 
+  group_by(`Well-developed precopulatory behavior`, `Ramus shape around the blade`) %>% 
+  tally %>%
+  filter(!is.na(`Well-developed precopulatory behavior`)) %>%
+  ggplot(aes(factor(`Well-developed precopulatory behavior`), n, fill = factor(`Ramus shape around the blade`))) +
+  geom_bar(stat = "identity",position = "fill") +
+  scale_fill_blues() +
+  scale_y_continuous(labels = scales::percent_format()) +
+  coord_polar()
+
+df %>% 
+  group_by(`Well-developed precopulatory behavior`, `Shape of ray 4a, four categories: from totally straight to curved in shape`) %>% 
+  tally %>%
+  filter(!is.na(`Well-developed precopulatory behavior`)) %>%
+  ggplot(aes(factor(`Well-developed precopulatory behavior`), n, fill = factor(`Shape of ray 4a, four categories: from totally straight to curved in shape`))) +
+  geom_bar(stat = "identity",position = "fill") +
+  scale_fill_blues(guide = F) +
+  scale_y_continuous(labels = scales::percent_format()) +
+  coord_polar()
+
+#########################
 
 
 # 
