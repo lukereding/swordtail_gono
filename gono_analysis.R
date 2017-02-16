@@ -77,20 +77,20 @@ df %>%
 # overall, not super correlated
 
 
-df <- read_csv("df_wide.csv")
+df <- read_csv("df_wide_with_jones_columns.csv")
 
 require(ggrepel)
 
 # chisq.test(matrix(c(2,12,3,1), ncol = 2)); p = 0.07
 df %>% 
   group_by(`Well-developed precopulatory behavior`, `Distal serrae on ray 4p of the gonopodium.`) %>% 
-  tally %>%
+  count %>%  
   ggplot(aes(factor(`Well-developed precopulatory behavior`), n, fill = factor(`Distal serrae on ray 4p of the gonopodium.`))) +
   geom_bar(stat = "identity",position = "fill") +
   scale_fill_blues() +
-  scale_y_continuous(labels = scales::percent_format()) +
-  coord_polar()
+  scale_y_continuous(labels = scales::percent_format())
   
+# p = 0.035? :chisq.test(matrix(c(5,0,4,9), ncol = 2))
 df %>% 
   group_by(`Well-developed precopulatory behavior`, `Well-formedhookonray5aofthegonopodium`) %>% 
   count %>%
@@ -98,8 +98,7 @@ df %>%
   ggplot(aes(factor(`Well-developed precopulatory behavior`), n, fill = factor(`Well-formedhookonray5aofthegonopodium`))) +
   geom_bar(stat = "identity",position = "fill") +
   scale_fill_blues() +
-  scale_y_continuous(labels = scales::percent_format()) +
-  coord_polar()
+  scale_y_continuous(labels = scales::percent_format())
 
 # not significant matrix(c(3, 12, 2, 1), ncol = 2)
 df %>% 
@@ -246,6 +245,33 @@ df %>%
   coord_polar()
 
 #########################
+
+## load tree
+
+
+require(ape)
+require(phytools)
+tree<-read.nexus("~/Desktop/swordtail_gono/xiph")
+plot(tree[[1]])
+tree<-tree[[1]]
+
+## root the tree
+tree <- root(tree, "Priapella")
+
+df$species <- gsub(" ", "", df$species)
+df$species <- gsub("\\.", "", df$species)
+## fix some things to make things work
+
+df <- as.data.frame(df)
+rownames(df) <- df$species
+
+name.check(tree, df)
+
+
+
+
+
+
 
 
 # 
