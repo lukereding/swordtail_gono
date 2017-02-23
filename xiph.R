@@ -1,6 +1,10 @@
 # evolution of female preferences and male traits
-
+require(tidyverse)
+source("~/Documents/random_scripts/plotting_functions.R")
 require(ape)
+require(geiger)
+require(phytools)
+require(diversitree)
 
 tree<-read.nexus("~/Desktop/swordtail_gono/xiph")
 plot(tree[[2]])
@@ -11,7 +15,7 @@ tree <- multi2di(tree, random = TRUE)
 # add a tiny branch length
 tree$edge.length  <- ifelse(tree$edge.length == 0, tree$edge.length + 0.001, tree$edge.length) 
 
-data<- read_csv("~/Desktop/swordtail_gono/df_wide.csv")
+data<- read_csv("~/Desktop/swordtail_gono/df_wide_with_jones_columns.csv")
 head(data)
 data$species<-gsub(" ", "", data$species)
 data$species<-gsub("\\.", "", data$species)
@@ -21,22 +25,50 @@ rownames(data) <- data$species
 # rownames(data)<-data$species
 
 
+## subset the dataframe to only the variables of interest
+# , sword, `Vertical bars`, `Claw presence vs absence`
+df<- data %>%
+  select(species, `Well-developed precopulatory behavior`, `Claw presence vs absence`)
 
 
 ## clean up corresponse between tree and data
 require(geiger)
-name.check(tree,data)
+name.check(tree,df)
 
 # delete tips from tree
-no_data <- name.check(tree,data)$tree_not_data
-tree <- drop.tip(tree, no_data)
+no_data <- name.check(tree,df)$tree_not_data
+tree_reduced <- drop.tip(tree, no_data)
 
-no_tree <- name.check(tree,data)$data_not_tree
-data <- data[!rownames(data) %in% no_tree,]
+no_tree <- name.check(tree,df)$data_not_tree
+data_reduced <- df[!rownames(df) %in% no_tree,]
 
 
-name.check(tree,data)
+name.check(tree_reduced, data_reduced)
 
+names(data_reduced)[2] <- "precop"
+names(data_reduced)[3] <- "claw"
+col.tree <- list(precop=c("#65C6BB","#16A085"), claw=c("#FD9567","#CD4071", "#451077"))
+trait.plot(ladderize(tree_reduced), w = 0.1,dat = data_reduced, type = "p", cols = col.tree, str=list(c("no", "yes"), c("no", "yes")), cex.lab = 1.5, cex.legend = 1)
+
+
+
+##########
+
+# messing around here
+
+#http://www.zoology.ubc.ca/prog/diversitree/examples/unreplicated/
+# phy <- chronopl(tree_reduced, lambda = 0)
+# lik1 <- make.mk2(phy, data.frame(data_reduced$claw, row.names = data_reduced$species))
+# fit1 <- find.mle(lik1, rep(.1, 2))
+# zapsmall(coef(fit1))
+
+#############
+
+
+
+
+
+library(diversitree)
 ### need to use DISCRETE?
 ## see http://www.amjbot.org/content/103/7/1223.full.pdf+html for a recent example
 ## and / or see here: http://www.zoology.ubc.ca/prog/diversitree/examples/unreplicated/
@@ -47,8 +79,9 @@ name.check(tree,data)
 #            +            class=genus.fish, quiet=TRUE, w=1/10, margin=1/1.4, cex.legend = 1)
 
 
-
-cols <- palette_brr(4)
+library(ggtree)
+library(phytools)
+cols <- palette_blues(4)[c(1,3,4)]
 plotTree(tree,type="fan",fsize=0.8,ftype="i")
 tiplabels(pie=to.matrix(factor(data$"Grave spot."),sort(unique(data$"Grave spot."))),piecol=cols,cex=0.8)
 
